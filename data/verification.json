@@ -1,0 +1,99 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "第一回　甄士隐梦幻识通灵　贾雨村风尘怀闺秀",
+      "revision": "2703826",
+      "paragraphs": 36,
+      "characters": 7888,
+      "exact_match": true,
+      "text_sha256": "1b5ef791c87b9e22f49205e287f107816ae98496e4da51222dda675fe4b6a141"
+    },
+    {
+      "chapter": 2,
+      "title": "第二回　贾夫人仙逝扬州城　冷子兴演说荣国府",
+      "revision": "2703827",
+      "paragraphs": 21,
+      "characters": 5986,
+      "exact_match": true,
+      "text_sha256": "94da09beff6e593134a72212f5d68c9895dc9119e9dd5cfa4aea531bcf4b39c7"
+    },
+    {
+      "chapter": 3,
+      "title": "第三回　金陵城起复贾雨村　荣国府收养林黛玉",
+      "revision": "2703828",
+      "paragraphs": 28,
+      "characters": 8476,
+      "exact_match": true,
+      "text_sha256": "6c1063737c4611d7fa51e49c7bafde4f68172c19c860df685e1835c8e178f624"
+    },
+    {
+      "chapter": 4,
+      "title": "第四回　薄命女偏逢薄命郎　葫芦僧乱判葫芦案",
+      "revision": "2703835",
+      "paragraphs": 20,
+      "characters": 5821,
+      "exact_match": true,
+      "text_sha256": "25d9e716c85355c250d8e26f91ad37d8eb0cbe13f0cb8ffb4670191923c233fd"
+    },
+    {
+      "chapter": 5,
+      "title": "第五回　开生面梦演红楼梦　立新场情传幻境情",
+      "revision": "2703836",
+      "paragraphs": 90,
+      "characters": 7410,
+      "exact_match": true,
+      "text_sha256": "e5ce0c8424432cb6585676c28bec46f2f638f948eff6e33a19b0deca532b6338"
+    },
+    {
+      "chapter": 6,
+      "title": "第六回　贾宝玉初试云雨情　刘姥姥一进荣国府",
+      "revision": "8090073",
+      "paragraphs": 24,
+      "characters": 7337,
+      "exact_match": true,
+      "text_sha256": "d130dd522627e653d3dfde915a87a0b5b95331c62070ff75d7cfe6f73daf1189"
+    },
+    {
+      "chapter": 7,
+      "title": "第七回　送宫花周瑞叹英莲　谈肄业秦钟结宝玉",
+      "revision": "2375313",
+      "paragraphs": 25,
+      "characters": 7351,
+      "exact_match": true,
+      "text_sha256": "f1d8217b9c1fb3f9c5e8dae86b9346152adc012041e0dc2d3f35efc238897324"
+    },
+    {
+      "chapter": 8,
+      "title": "第八回　薛宝钗小恙梨香院　贾宝玉大醉绛芸轩",
+      "revision": "2648931",
+      "paragraphs": 29,
+      "characters": 6529,
+      "exact_match": true,
+      "text_sha256": "5a5a8df357e04050675a9033946e38fa3dbe59e477c2e05c3499e49ade30be7c"
+    },
+    {
+      "chapter": 9,
+      "title": "第九回　恋风流情友入家塾　起嫌疑顽童闹学堂",
+      "revision": "2375341",
+      "paragraphs": 10,
+      "characters": 5581,
+      "exact_match": true,
+      "text_sha256": "2f89323a09c9be042e18cd8b990bcaf1d908d80e2dcc1610fb5ef4e81917bd44"
+    },
+    {
+      "chapter": 10,
+      "title": "第十回　金寡妇贪利权受辱　张太医论病细穷源",
+      "revision": "2371136",
+      "paragraphs": 14,
+      "characters": 5019,
+      "exact_match": true,
+      "text_sha256": "c21a7f0a8923fb30143bab10cffc90f8d39a3154d35e94f9cf7cae5127780a9c"
+    }
+  ],
+  "total_paragraphs": 297,
+  "total_characters": 67398,
+  "all_exactly_equal": true,
+  "source_original_images": 4,
+  "generated_paintings": 12
+}
