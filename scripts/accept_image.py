@@ -23,7 +23,9 @@ if __name__=='__main__':
     illustrations=json.loads((ROOT/'data/illustrations.json').read_text())
     assert not any(i['chapter']==args.chapter for i in illustrations),'Chapter image already accepted'
     entry={key:plan[key] for key in ['chapter','before','title','alt','scene']}
-    entry.update(src=asset,source_excerpt=ch['blocks'][plan['before']]['text'][:65])
+    excerpt=plan.get('source_excerpt') or ch['blocks'][plan['before']]['text'][:65]
+    assert excerpt in ch['blocks'][plan['before']]['text']
+    entry.update(src=asset,source_excerpt=excerpt)
     illustrations.append(entry)
     write_json(ROOT/'data/illustrations.json',illustrations)
     prompts=json.loads((ROOT/'data/image-prompts.json').read_text())

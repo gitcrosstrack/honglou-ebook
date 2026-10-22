@@ -28,7 +28,8 @@ def navigation(chapters):
 
 def figure(ill,ch):
     i=ill['before']
-    context=ch['blocks'][i]['text'][:65]
+    context=ill.get('source_excerpt') or ch['blocks'][i]['text'][:65]
+    assert context in ch['blocks'][i]['text']
     ill['source_excerpt']=context
     return f'''<figure class="illustration" data-scene-chapter="{ch['id']}" data-scene-block="{i}"><img src="{ill['src']}" alt="{E(ill['alt'])}" width="1536" height="1024" loading="lazy"><figcaption><span>{E(ill['title'])}</span><span class="scene-info">{E(ill['scene'])}</span><button class="scene-link sans" data-jump="ch{ch['id']}-p{i}">对应原文 ↗</button><span class="scene-context sans">图意据本回原文：{E(context)}…<br>AI 绘制的情节插画</span></figcaption></figure>'''
 

@@ -34,7 +34,7 @@ def verify(html_path=None):
         if not src.startswith('data:'):assert (ROOT/src).is_file(), f'Missing asset: {src}'
     for ill in json.loads((ROOT/'data/illustrations.json').read_text()):
         expected=metadata[ill['chapter']-1]['blocks'][ill['before']]['text']
-        assert expected.startswith(ill['source_excerpt'])
+        assert ill['source_excerpt'] in expected
     assert len(doc.select('.chapter-page'))==len(metadata)==120
     images=json.loads((ROOT/'data/illustrations.json').read_text())
     return {'chapters':report,'total_paragraphs':sum(c['paragraphs'] for c in report),'total_characters':sum(c['characters'] for c in report),'all_exactly_equal':True,'source_original_images':sum(sum(b['type']=='source-image' for b in ch['blocks']) for ch in metadata),'generated_paintings':len(images)+1,'illustrated_chapters':len({i['chapter'] for i in images})}
