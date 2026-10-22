@@ -860,13 +860,13 @@
   },
   {
     "chapter": 98,
-    "before": 2,
+    "before": 3,
     "title": "泪洒相思",
     "scene": "苦绛珠魂归离恨天",
     "alt": "宝玉听闻黛玉亡故后在宝钗面前流泪，室内静寂，宝钗温言相劝，神态哀恸克制；无尸身或病痛特写。",
-    "source_excerpt": "宝玉片时清楚，自料难保，见诸人散后，房中只有袭人，因唤袭人至跟前，拉著手哭道：“我问你，宝姐姐怎么来的？我记得老爷给我娶了林妹妹过来，怎么被宝姐姐赶了去了？他为什么霸占住在这里？我",
+    "source_excerpt": "忽然眼前漆黑，辨不出方向，心中正自恍惚，只见眼前好象有人走来，宝玉茫然问道：“借问此是何处？”那人道：“此阴司泉路。你寿未终，何故至此？”宝玉道：“适闻有一故人已死，遂寻访至此，不",
     "description": "宝玉听闻黛玉亡故后在宝钗面前流泪，室内静寂，宝钗温言相劝，神态哀恸克制；无尸身或病痛特写。",
-    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 98. 宝玉听闻黛玉亡故后在宝钗面前流泪，室内静寂，宝钗温言相劝，神态哀恸克制；无尸身或病痛特写。 Source excerpt for correspondence only: 宝玉片时清楚，自料难保，见诸人散后，房中只有袭人，因唤袭人至跟前，拉著手哭道：“我问你，宝姐姐怎么来的？我记得老爷给我娶了林妹妹过来，怎么被宝姐姐赶了去了？他为什么霸占住在这里？我要说呢，又恐怕得罪了他。你们听见林妹妹哭得怎么样了？”袭人不敢明说，只得说道：“林姑娘病著呢。”宝玉又道：“我瞧瞧他去。”说著，要起来。岂知连日饮食不进，身子那能动转，便哭道：“我要死了！我有一句心里的话，只求你回明老太太：横竖林妹妹也是要死的，我如今也不能保。两处两个病人都要死的，死了越发难张罗。不如腾一处空房子，趁早将我同林妹妹两个抬在那里，活著也好一处医治伏侍，死了也好一处停放。你依我这话，不枉了几年的情分。”"
+    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 98. 在安静的古典室内，宝玉得知黛玉的消息，坐在椅上落泪，宝钗坐在旁边温言劝慰。两人穿戴整齐，隔着一张小茶案；帘幕静垂，茶盏未动，以克制的表情表现悲伤和关怀。"
   },
   {
     "chapter": 99,
@@ -990,13 +990,13 @@
   },
   {
     "chapter": 111,
-    "before": 0,
-    "title": "鸳鸯追思",
+    "before": 4,
+    "title": "灵前奠酒",
     "scene": "鸳鸯女殉主登太虚",
-    "alt": "鸳鸯在贾母灵前静静追念，素服跪坐，香案与白色挽幔，烛影幽静；无自伤、无绳索或身亡描绘。",
-    "source_excerpt": "歇力的，乱乱吵吵，已闹的七颠八倒，不成事体了。到二更多天远客去后，便预备辞灵。孝幕内的女眷大家都哭了一阵。只见鸳鸯已哭的昏晕过去了，大家扶住捶闹了一阵才醒过来，便说“老太太疼我一场",
-    "description": "鸳鸯在贾母灵前静静追念，素服跪坐，香案与白色挽幔，烛影幽静；无自伤、无绳索或身亡描绘。",
-    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 111. 鸳鸯在贾母灵前静静追念，素服跪坐，香案与白色挽幔，烛影幽静；无自伤、无绳索或身亡描绘。 Source locating fragment (not text to draw): 歇力的，乱乱吵吵，已闹的七颠八倒，不成事体了。到二更多天远客去后，便预备辞灵。孝幕内的女眷大家都哭了一阵。只见鸳鸯已哭的昏晕过去了，大家扶住捶闹了一阵才醒过来，便说“老太太疼我一场我跟了去”的话。众人都打谅人到悲哭俱有这些言语，也不理会。到了辞灵之时，上上下下也有百十余人，只鸳鸯不在。众人忙乱之时，谁去捡点。到了琥珀等一干的人哭奠之时，却不见鸳鸯，想来是他哭乏了，暂在别处歇著，也不言语。辞灵以后，外头贾政叫"
+    "alt": "宝钗由莺儿陪同，在鸳鸯灵前奠酒追思，白幔与烛影清寂",
+    "source_excerpt": "王夫人即传了鸳鸯的嫂子进来，叫他看著入殓。逐与邢夫人商量了，在老太太项内赏了他嫂子一百两银子，还说等闲了将鸳鸯所有的东西俱赏他们。他嫂子磕了头出去，反喜欢说：“真真的我们姑娘是个有",
+    "description": "宝钗由莺儿陪同，在鸳鸯灵前奠酒追思，白幔与烛影清寂",
+    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 111. 宝钗穿淡素色整齐长衣，莺儿随侍，在鸳鸯的灵前轻轻洒下祭酒，静静流泪追思。只画二位在世的女子、香案、白色挽幔、烛台和清酒杯，以朴素肃静的礼仪表现悼念。牌位不写可读文字。"
   },
   {
     "chapter": 112,
