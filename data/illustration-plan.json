@@ -543,10 +543,10 @@
     "before": 7,
     "title": "冷郎入道",
     "scene": "情小妹耻情归地府",
-    "alt": "柳湘莲剪去头发后跟随跛足道人沿山路远去，背影沉寂，长路松风，不表现自伤或身亡，只画出世远行。",
+    "alt": "柳湘莲随一位道士离开破庙，沿寂寥古道远去",
     "source_excerpt": "。”说毕，一阵香风，无踪无影去了。湘莲警觉，似梦非梦，睁眼看时，那里有薛家小童，也非新室，竟是一座破庙，旁边坐著一个跏腿道士捕虱。湘莲便起身稽首相问：“此系何方？仙师仙名法号？”道",
-    "description": "柳湘莲剪去头发后跟随跛足道人沿山路远去，背影沉寂，长路松风，不表现自伤或身亡，只画出世远行。",
-    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 66. 柳湘莲剪去头发后跟随跛足道人沿山路远去，背影沉寂，长路松风，不表现自伤或身亡，只画出世远行。 Source locating fragment: 。”说毕，一阵香风，无踪无影去了。湘莲警觉，似梦非梦，睁眼看时，那里有薛家小童，也非新室，竟是一座破庙，旁边坐著一个跏腿道士捕虱。湘莲便起身稽首相问：“此系何方？仙师仙名法号？”道士笑道：“连我也不知道此系何方，我系何人，不过暂来歇足而已。”柳湘莲听了，不觉冷然如寒冰侵骨，掣出那股雄剑，将万根烦恼丝一挥而尽，便随那道士，不知往那里去了。后回便见。"
+    "description": "柳湘莲随一位道士离开破庙，沿寂寥古道远去",
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 66. 柳湘莲随一位衣着朴素的道士走出破庙，沿寂寥古道远去，背影沉静，长路松风，表现人物看破尘缘后的沉静。身穿完整传统长袍。"
   },
   {
     "chapter": 67,

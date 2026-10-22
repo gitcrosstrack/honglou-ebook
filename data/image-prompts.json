@@ -309,5 +309,55 @@
     "id": 60,
     "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash narrative painting, wide 3:2 landscape, tactile warm antique xuan paper, fine hand-painted contours, muted mineral jade and smoky grey, restrained cinnabar, classical album leaf. Small dignified fully clothed characters in period Chinese dress. No modern objects, photography, readable text, seals, watermark or border. Only illustrate the following specific scene from this chapter of Dream of the Red Chamber. Chapter 60. 芳官把小瓶玫瑰露交与柳五儿，院落里二人细语，桌旁小瓷瓶与清水杯，春日清亮，人物端正整齐。 Source excerpt (context, not text to draw): 这里柳家的见人散了，忙出来和芳官说：“前儿那话儿说了不曾？”芳官道：“说了。等一二日再提这事。偏那赵不死的又和我闹了一场。前儿那玫瑰露姐姐吃了不曾，他到底可好些？”柳家的道：“可不都吃了。他爱的什么似的，又不好问你再要的。”芳官道：“不值什么，等我再要些来给他就是了。”",
     "phase": "generated"
+  },
+  {
+    "id": 61,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 61. 平儿在厅堂向林之孝家的说明处置办法，柳家母女在旁候听，神情公平和缓，古典家务议事，无威吓或刑具。 Source locating fragment: 若不是寻露，还不知道呢。”莲花儿笑道：“这话我没听见，今儿我倒看见一个露瓶子。”林之孝家的正因这些事没主儿，每日凤姐儿使平儿催逼他，一听此言，忙问在那里。莲花儿便说：“在他们厨房里呢。”林之孝家的听了，忙命打了灯笼，带著众人来寻。五儿急的便说：“那原是宝二爷屋里的芳官给我的。”林之孝家的便说：“不管你方官圆官，现有了赃证，我只呈报了，凭你主子前辩去。”一面说，一面进入厨房，莲花儿带著，取出露瓶。恐还有偷的别物，又细细搜了一遍，又得了一包",
+    "phase": "generated"
+  },
+  {
+    "id": 62,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 62. 史湘云穿整齐华雅长衣醉后安睡在芍药花旁青石凳上，扇子包着花瓣，蜜蜂与飘落花瓣，姐妹们在远处轻步而来。 Source locating fragment: ，来到沁芳亭边，只见袭人、香菱、待书、素云、晴雯、麝月、芳官、蕊官、藕官等十来个人都在那里看鱼作耍。见他们来了，都说：“芍药栏里预备下了，快去上席罢。”宝钗等随携了他们同到了芍药栏中红香圃三间小敞厅内。连尤氏已请过来了，诸人都在那里，只没平儿。",
+    "phase": "generated"
+  },
+  {
+    "id": 63,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 63. 怡红院生日夜宴，宝玉与众姊妹围桌抽花签、饮酒说笑，绣灯微明，花签只绘花无文字，精雅温暖。 Source locating fragment: 舀水去，小燕一个跟我来罢。”说著，走至外边，因见无人，便问五儿之事。小燕道：“我才告诉了柳嫂子，他倒喜欢的很。只是五儿那夜受了委屈烦恼，回家去又气病了，那里来得。只等好了罢。”宝玉听了，不免后悔长叹，因又问：“这事袭人知道不知道？”小燕道：“我没告诉，不知芳官可说了不曾。”宝玉道：“我却没告诉过他，也罢，等我告诉他就是了。”说毕，复走进来，故意洗手。",
+    "phase": "generated"
+  },
+  {
+    "id": 64,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 64. 黛玉独坐案前以笔写五美吟，纸卷、墨砚与花瓶，窗外竹影，安静沉思；画中书页不出现可读文字。 Source locating fragment: 宝玉看了，赞不绝口，又说道：“妹妹这诗恰好只做了五首，何不就命曰《五美吟》。”于是不容分说，便提笔写在后面。宝钗亦说道：“做诗不论何题，只要善翻古人之意。若要随人脚踪走去，纵使字句精工，已落第二义，究竟算不得好诗。即如前人所咏昭君之诗甚多，有悲挽昭君的，有怨恨延寿的，又有讥汉帝不能使画工图貌贤臣而画美人的，纷纷不一。后来王荆公复有‘意态由来画不成，当时枉杀毛延寿’，永叔有‘耳目所见尚",
+    "phase": "generated"
+  },
+  {
+    "id": 65,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 65. 尤老娘与尤三姐初到贾琏安排的宅院，鲍二夫妇在门前热情迎接，院落陈设整齐，成年人物衣冠端正，普通迎接场景。 Source locating fragment: 话说贾琏贾珍贾蓉等三人商议，事事妥贴，至初二日，先将尤老和三姐送入新房。尤老一看，虽不似贾蓉口内之言，也十分齐备，母女二人已称了心。鲍二夫妇见了如一盆火，赶著尤老一口一声唤老娘，又或是老太太，赶著三姐唤三姨，或是姨娘。至次日五更天，一乘素轿，将二姐抬来。各色香烛纸马，并铺盖以及酒饭，早已备得十分妥当。一时，贾琏素服坐了小轿而来，拜过天地，焚了纸马。那尤老见二姐身上头上焕然一新不是在家",
+    "phase": "generated"
+  },
+  {
+    "id": 66,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 66. 柳湘莲随一位衣着朴素的道士走出破庙，沿寂寥古道远去，背影沉静，长路松风，表现人物看破尘缘后的沉静。身穿完整传统长袍。",
+    "phase": "generated"
+  },
+  {
+    "id": 67,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 67. 黛玉凝视宝钗派人送来的江南土产小物，触物思乡，紫鹃在旁轻声安慰，案上小巧竹器绣物，清雅室内。 Source excerpt for correspondence only: 这边姊妹诸人都收了东西，赏赐来使，说见面再谢。惟有林黛玉看见他家乡之物，反自触物伤情，想起父母双亡，又无兄弟，寄居亲戚家中，那里有人也给我带些土物？想到这里，不觉的又伤起心来了。紫鹃深知黛玉心肠，但也不敢说破，只在一旁劝道：“姑娘的身子多病，早晚服药，这两日看著比那些日子略好些。虽说精神长了一点儿，还算不得十分大好。今儿宝姑娘送来的这些东西，可见宝姑娘素日看得姑娘很重，姑娘看著该喜欢才是，为什么反倒伤起心来。这不是宝姑娘送东西来倒叫姑娘烦恼了不成？就是宝姑娘听见，反觉脸上不好看。再者这里老太太们为姑娘的病体，千方百计请好大夫配药诊治，也为是姑娘的病好。这如今才好些，又这样哭哭啼啼，岂不是自己遭",
+    "phase": "generated"
+  },
+  {
+    "id": 68,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 68. 凤姐到尤二姐住处相见，表面亲切相迎，两位成年女子于厅前礼貌对话，平儿随侍，克制的复杂神情。 Source locating fragment: 兴儿引路，一直到了二姐门前扣门。鲍二家的开了。兴儿笑说：“快回二奶奶去，大奶奶来了。”鲍二家的听了这句，顶梁骨走了真魂，忙飞进报与尤二姐。尤二姐虽也一惊，但已来了，只得以礼相见，于是忙整衣迎了出来。至门前，凤姐方下车进来。尤二姐一看，只见头上皆是素白银器，身上月白缎袄，青缎披风，白绫素裙。眉弯柳叶，高吊两梢，目横丹凤，神凝三角。俏丽若三",
+    "phase": "generated"
+  },
+  {
+    "id": 69,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 69. 尤二姐随凤姐来拜见贾母，贾母于堂上端详来客，凤姐在旁含笑介绍，人物肃整，无病痛死亡或冲突。 Source locating fragment: 去回，方是大礼。凤姐笑说：“你只别说话，等我去说。”尤氏道：“这个自然。但一有个不是，是往你身上推的。”说著，大家先来至贾母房中。",
+    "phase": "generated"
+  },
+  {
+    "id": 70,
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 70. 大观园姊妹们在春风中放风筝，黛玉与宝钗、探春等仰首望天空，纱燕、美人、凤凰等古典纸鸢飞向远空，园林新绿。 Source locating fragment: 一语未了，只听窗外竹子上一声响，恰似窗屉子倒了一般，众人唬了一跳。丫鬟们出去瞧时，帘外丫鬟嚷道：“一个大蝴蝶风筝挂在竹梢上了。”众丫鬟笑道：“好一个齐整风筝！不知是谁家放断了绳，拿下他来。”宝玉等听了，也都出来看时，宝玉笑道：“我认得这风筝。这是大老爷那院里娇红姑娘放的，拿下来给他送过去罢。”紫鹃笑道：“难道天下没有一样的风筝，单他有这个不成？我不管，我且拿起来。”探春道：“紫鹃也学小气了。你们一般的也有，这会子拾人走了的，",
+    "phase": "generated"
   }
 ]
