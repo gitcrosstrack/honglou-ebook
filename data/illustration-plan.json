@@ -340,13 +340,13 @@
   },
   {
     "chapter": 46,
-    "before": 14,
-    "title": "鸳鸯明志",
-    "scene": "尴尬人难免尴尬事",
-    "alt": "鸳鸯在贾母跟前坚定表明不愿嫁人的心志，贾母神情关切，长辈与女眷在旁。无剪刀、无伤害，重点是坚贞自主的神情。",
-    "source_excerpt": "可巧王夫人，薛姨妈，李纨，凤姐儿，宝钗等姊妹并外头的几个执事有头脸的媳妇，都在贾母跟前凑趣儿呢。鸳鸯喜之不尽，拉了他嫂子，到贾母跟前跪下，一行哭，一行说，把邢夫人怎么来说，园子里他",
-    "description": "鸳鸯在贾母跟前坚定表明不愿嫁人的心志，贾母神情关切，长辈与女眷在旁。无剪刀、无伤害，重点是坚贞自主的神情。",
-    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash narrative painting, wide 3:2 landscape, tactile warm antique xuan paper, fine hand-painted contours, muted mineral jade and smoky grey, restrained cinnabar, classical album leaf. Small dignified fully clothed characters in period Chinese dress. No modern objects, photography, readable text, seals, watermark or border. Only illustrate the following specific scene from this chapter of Dream of the Red Chamber. Chapter 46. 鸳鸯在贾母跟前坚定表明不愿嫁人的心志，贾母神情关切，长辈与女眷在旁。无剪刀、无伤害，重点是坚贞自主的神情。 Source excerpt for correspondence only: 可巧王夫人，薛姨妈，李纨，凤姐儿，宝钗等姊妹并外头的几个执事有头脸的媳妇，都在贾母跟前凑趣儿呢。鸳鸯喜之不尽，拉了他嫂子，到贾母跟前跪下，一行哭，一行说，把邢夫人怎么来说，园子里他嫂子又如何说，今儿他哥哥又如何说，“因为不依，方才大老爷越性说我恋著宝玉，不然要等著往外聘，我到天上，这一辈子也跳不出他的手心去，终久要报仇。我是横了心的，当著众人在这里，我这一辈子莫说是‘宝玉’，便是‘宝金’‘宝银’‘宝天王’‘宝皇帝’，横竖不嫁人就完了！就是老太太逼著我，我一刀抹死了，也不能从命！若有造化，我死在老太太之先，若没造化，该讨吃的命，伏侍老太太归了西，我也不跟著我老子娘哥哥去，我或是寻死，或是剪了头发"
+    "before": 3,
+    "title": "窗前针线",
+    "scene": "针线细赏 · 卧房相访",
+    "alt": "鸳鸯在窗前做针线，邢夫人来访赞赏绣工",
+    "source_excerpt": "邢夫人听了有理，便自往贾母处，和贾母说了一回闲话，便出来假托往王夫人房里去，从后门出去，打鸳鸯的卧房前过。只见鸳鸯正然坐在那里做针线，见了邢夫人，忙站起来。邢夫人笑道：“做什么呢？我瞧瞧，你扎的花儿越",
+    "description": "鸳鸯在窗前做针线，邢夫人来访赞赏绣工",
+    "prompt": "Use case: historical-scene. An exquisite traditional Chinese gongbi and ink-wash album leaf for chapter 46 of Dream of the Red Chamber, 3:2 landscape. Draw only a quiet needlework visit: Yuanyang sits at a wooden table sewing an embroidered flower; Lady Xing pauses beside the open doorway and admires the fine stitching. Yuanyang wears a pale lotus-purple silk jacket, dark blue satin vest and light water-green long skirt; a few faint freckles on her cheeks, neatly gathered black hair. Lady Xing wears a dignified muted ochre robe. A small sewing basket, embroidered cloth, open lattice window, restrained traditional room. Warm antique xuan paper, fine hand-painted outlines, muted jade and smoky grey with restrained cinnabar, classical fine brushwork. Fully dressed dignified figures. No text, seals, watermark, frame or modern objects."
   },
   {
     "chapter": 47,
