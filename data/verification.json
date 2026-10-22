@@ -89,11 +89,1002 @@
       "characters": 5019,
       "exact_match": true,
       "text_sha256": "c21a7f0a8923fb30143bab10cffc90f8d39a3154d35e94f9cf7cae5127780a9c"
+    },
+    {
+      "chapter": 11,
+      "title": "第十一回　庆寿辰宁府排家宴　见熙凤贾瑞起淫心",
+      "revision": "2371197",
+      "paragraphs": 20,
+      "characters": 5787,
+      "exact_match": true,
+      "text_sha256": "20811be13206bc0da39eb4861c7c934f15a0f3aa4575eeb5129e9c75ab577ef8"
+    },
+    {
+      "chapter": 12,
+      "title": "第十二回　王熙凤毒设相思局　贾天祥正照风月鉴",
+      "revision": "2348237",
+      "paragraphs": 14,
+      "characters": 4193,
+      "exact_match": true,
+      "text_sha256": "340e33dbbc6d4c7c8e74617750601387bc910c55c967bc661bdfb7e9f009f70f"
+    },
+    {
+      "chapter": 13,
+      "title": "第十三回　秦可卿死封龙禁尉　王熙凤协理宁国府",
+      "revision": "2371198",
+      "paragraphs": 21,
+      "characters": 5072,
+      "exact_match": true,
+      "text_sha256": "89ac1b74c00a86ed19ef00363ae975f0dc6f64cbdfd2a47411976ed3faf7eab8"
+    },
+    {
+      "chapter": 14,
+      "title": "第十四回　林如海捐馆扬州城　贾宝玉路谒北静王",
+      "revision": "2703823",
+      "paragraphs": 25,
+      "characters": 5543,
+      "exact_match": true,
+      "text_sha256": "6ce69b91b992a9001584464d77f63655d221da699dfdc482f9ff529c3f549b57"
+    },
+    {
+      "chapter": 15,
+      "title": "第十五回　王凤姐弄权铁槛寺　秦鲸卿得趣馒头庵",
+      "revision": "2112458",
+      "paragraphs": 14,
+      "characters": 4975,
+      "exact_match": true,
+      "text_sha256": "f2b088599a9aad10d61ea2bf946c69bd7e85bb08ce1d85c0be8183057631689e"
+    },
+    {
+      "chapter": 16,
+      "title": "第十六回　贾元春才选凤藻宫　秦鲸卿夭逝黄泉路",
+      "revision": "2091571",
+      "paragraphs": 22,
+      "characters": 7472,
+      "exact_match": true,
+      "text_sha256": "212458b1f1711b50aefdafb70da33d4738aff1b3ed6634b27da95169f44c6c71"
+    },
+    {
+      "chapter": 17,
+      "title": "第十七回　会芳园试才题对额　贾宝玉机敏动诸宾",
+      "revision": "2375347",
+      "paragraphs": 27,
+      "characters": 7673,
+      "exact_match": true,
+      "text_sha256": "a7f0ae05ec4164757b3f4543583828713e271f8712e092bae0fadfe39ebf331a"
+    },
+    {
+      "chapter": 18,
+      "title": "第十八回　林黛玉误剪香囊袋　贾元春归省庆元宵",
+      "revision": "2566268",
+      "paragraphs": 59,
+      "characters": 8399,
+      "exact_match": true,
+      "text_sha256": "7ab2b302bf036eabf03dcd1294b415ce7f138614be8a70e23005681b76f05c89"
+    },
+    {
+      "chapter": 19,
+      "title": "第十九回　情切切良宵花解语　意绵绵静日玉生香",
+      "revision": "2371202",
+      "paragraphs": 28,
+      "characters": 9108,
+      "exact_match": true,
+      "text_sha256": "4a06b56fdb973443ee4eb54635a21f2ebea2068f1b79594ce382033a011b6874"
+    },
+    {
+      "chapter": 20,
+      "title": "第二十回 王熙凤正言弹妒意　林黛玉俏语谑娇音",
+      "revision": "2574399",
+      "paragraphs": 11,
+      "characters": 5245,
+      "exact_match": true,
+      "text_sha256": "86649d4c51f7a8ca2c84694c292979fdd2a31488ba1eb046ed3fb84e3308bf2e"
+    },
+    {
+      "chapter": 21,
+      "title": "第二十一回　贤袭人娇嗔箴宝玉　俏平儿软语救贾琏",
+      "revision": "2371203",
+      "paragraphs": 22,
+      "characters": 5956,
+      "exact_match": true,
+      "text_sha256": "60067f0519d18ea51cc1a18021ae5ef4f98b03877191311f918ada300d26b4ba"
+    },
+    {
+      "chapter": 22,
+      "title": "第二十二回　听曲文宝玉悟禅机　制灯迷贾政悲谶语",
+      "revision": "2371204",
+      "paragraphs": 39,
+      "characters": 6885,
+      "exact_match": true,
+      "text_sha256": "2fbcf4f47b7ad4611ceb70bb0c8beccfde7ca3d2e84fc3a27b83f96cf026cdd2"
+    },
+    {
+      "chapter": 23,
+      "title": "第二十三回　西厢记妙词通戏语　牡丹亭艳曲警芳心",
+      "revision": "2371206",
+      "paragraphs": 28,
+      "characters": 5361,
+      "exact_match": true,
+      "text_sha256": "39060620eb75ec280c3219e524e3db530f00edb8114e3a2b1f1e82a36589474b"
+    },
+    {
+      "chapter": 24,
+      "title": "第二十四回　醉金刚轻财尚义侠　痴女儿遗帕惹相思",
+      "revision": "2114151",
+      "paragraphs": 24,
+      "characters": 8402,
+      "exact_match": true,
+      "text_sha256": "4b6a32bafab24cd3cd8761762f9b61a2a71625f51c1b5effa4c78eccd40a7f80"
+    },
+    {
+      "chapter": 25,
+      "title": "第二十五回　魇魔法姊弟逢五鬼　红楼梦通灵遇双真",
+      "revision": "2371212",
+      "paragraphs": 26,
+      "characters": 8100,
+      "exact_match": true,
+      "text_sha256": "8298662b3b8051376f8d483ab5f0d8ce92c72255061c0b950be0d358c156506e"
+    },
+    {
+      "chapter": 26,
+      "title": "第二十六回　蜂腰桥设言传心事　潇湘馆春困发幽情",
+      "revision": "2405830",
+      "paragraphs": 25,
+      "characters": 7222,
+      "exact_match": true,
+      "text_sha256": "41a57160c958ff83ea04c2777f80424f2b9cc40a8b64c8b4c52c3f169bba2390"
+    },
+    {
+      "chapter": 27,
+      "title": "第二十七回　滴翠亭杨妃戏彩蝶　埋香冢飞燕泣残红",
+      "revision": "2571896",
+      "paragraphs": 19,
+      "characters": 6331,
+      "exact_match": true,
+      "text_sha256": "6ff866b3c267e6def8e094a5d53dd4e927d4244f1804b404ec8d3951805f133c"
+    },
+    {
+      "chapter": 28,
+      "title": "第二十八回　蒋玉菡情赠茜香罗　薛宝钗羞笼红麝串",
+      "revision": "2588440",
+      "paragraphs": 33,
+      "characters": 9420,
+      "exact_match": true,
+      "text_sha256": "918785940f4796bcd05d447c0c13d7c4499a5d413a7bcdf56c2380779c592c2e"
+    },
+    {
+      "chapter": 29,
+      "title": "第二十九回　享福人福深还祷福　痴情女情重愈斟情",
+      "revision": "2172413",
+      "paragraphs": 23,
+      "characters": 8512,
+      "exact_match": true,
+      "text_sha256": "4cdcc0be82dc8695e85eb915ce8787e52c160621ae3918ff01c11f85846e926d"
+    },
+    {
+      "chapter": 30,
+      "title": "第三十回　宝钗借扇机带双敲　龄官划蔷痴及局外",
+      "revision": "2375358",
+      "paragraphs": 17,
+      "characters": 5739,
+      "exact_match": true,
+      "text_sha256": "9db272fea5527e8e4a9d87ee2e051e7ea378ea91bab21eade75b580c9ae5517b"
+    },
+    {
+      "chapter": 31,
+      "title": "第三十一回　撕扇子作千金一笑　因麒麟伏白首双星",
+      "revision": "2375362",
+      "paragraphs": 7,
+      "characters": 7145,
+      "exact_match": true,
+      "text_sha256": "eda5d5437c243a0bedc2d0fbbb623fedc019394ce3452f588964278c0328a3c6"
+    },
+    {
+      "chapter": 32,
+      "title": "第三十二回　诉肺腑心迷活宝玉　含耻辱情烈死金钏",
+      "revision": "2626917",
+      "paragraphs": 9,
+      "characters": 5778,
+      "exact_match": true,
+      "text_sha256": "74f5a623706bad6a38566cd76316c1d4c76ae97131e5c8f50a69062659c27f73"
+    },
+    {
+      "chapter": 33,
+      "title": "第三十三回　手足耽耽小动唇舌　不肖种种大承笞挞",
+      "revision": "2112454",
+      "paragraphs": 10,
+      "characters": 4754,
+      "exact_match": true,
+      "text_sha256": "aa259d450b47243a38d8f0ced8bd05da01d0a1eea99d319dfe2d29b62ae77142"
+    },
+    {
+      "chapter": 34,
+      "title": "第三十四回　情中情因情感妹妹　错里错以错劝哥哥",
+      "revision": "2371237",
+      "paragraphs": 17,
+      "characters": 7236,
+      "exact_match": true,
+      "text_sha256": "ac9d861653016c882ed332b9d30d034bb9bb160b9ddf8cd85702d54b6422a17e"
+    },
+    {
+      "chapter": 35,
+      "title": "第三十五回　白玉钏亲尝莲叶羹　黄金莺巧结梅花络",
+      "revision": "2114128",
+      "paragraphs": 16,
+      "characters": 7859,
+      "exact_match": true,
+      "text_sha256": "1ffcf2b415daedf3d485faebba5f0f6d3cadb239d7ab55bd58584aa1d5de2cda"
+    },
+    {
+      "chapter": 36,
+      "title": "第三十六回　绣鸳鸯梦兆绛芸轩　识分定情悟梨香院",
+      "revision": "2114129",
+      "paragraphs": 12,
+      "characters": 6688,
+      "exact_match": true,
+      "text_sha256": "4492da4ebbc79f33335b6aaeaa5adf6a6af8ed4834e9b09fee70d58f99cdec9c"
+    },
+    {
+      "chapter": 37,
+      "title": "第三十七回　秋爽斋偶结海棠社　蘅芜苑夜拟菊花题",
+      "revision": "2566280",
+      "paragraphs": 35,
+      "characters": 9020,
+      "exact_match": true,
+      "text_sha256": "50585d44333a6ee8b45be3c046a157a4d3030739d72d14d1cba929d6be372340"
+    },
+    {
+      "chapter": 38,
+      "title": "第三十八回　林潇湘魁夺菊花诗　薛蘅芜讽和螃蟹咏",
+      "revision": "2371242",
+      "paragraphs": 53,
+      "characters": 5524,
+      "exact_match": true,
+      "text_sha256": "c0022ce857ef4f58ac18643db421b5e267594292fb7f840f40a701c47ff58390"
+    },
+    {
+      "chapter": 39,
+      "title": "第三十九回　村老妪谎谈承色笑　痴情子实意觅踪迹",
+      "revision": "2375364",
+      "paragraphs": 10,
+      "characters": 6224,
+      "exact_match": true,
+      "text_sha256": "82608880bcbebb84dca42765d39b5f81107325b71b8594963112cb9876774206"
+    },
+    {
+      "chapter": 40,
+      "title": "第四十回　史太君两宴大观园　金鸳鸯三宣牙牌令",
+      "revision": "2593609",
+      "paragraphs": 16,
+      "characters": 9354,
+      "exact_match": true,
+      "text_sha256": "015b312d207668ad74801d18ff110c4abddc571094136f21382b399d663fb722"
+    },
+    {
+      "chapter": 41,
+      "title": "第四十一回　贾宝玉品茶拢翠庵　刘姥姥醉卧怡红院",
+      "revision": "2375366",
+      "paragraphs": 13,
+      "characters": 6466,
+      "exact_match": true,
+      "text_sha256": "71d0b59591ca36fe96cfad2be835a32cbaa89ee030644e65c949656db376b952"
+    },
+    {
+      "chapter": 42,
+      "title": "第四十二回　蘅芜君兰言解疑语　潇湘子雅谑补馀香",
+      "revision": "2090362",
+      "paragraphs": 16,
+      "characters": 7487,
+      "exact_match": true,
+      "text_sha256": "15dc10710e482ca8cb630152fbb335169fa325e957e1ee2205f5fcac585f5bc1"
+    },
+    {
+      "chapter": 43,
+      "title": "第四十三回　闲取乐偶攒金庆寿　不了情暂撮土为香",
+      "revision": "2593725",
+      "paragraphs": 16,
+      "characters": 6630,
+      "exact_match": true,
+      "text_sha256": "b1909c982ee8c5586a582719a8eda7162b8e1d2edb9ffaeacd8bff5a588d61c8"
+    },
+    {
+      "chapter": 44,
+      "title": "第四十四回　变生不测凤姐泼醋　喜出望外平儿理妆",
+      "revision": "2090350",
+      "paragraphs": 15,
+      "characters": 6631,
+      "exact_match": true,
+      "text_sha256": "d4fab5c33b52b6e7a5b79f17c54eb76dd35c54f521a3a15a78d26092af170253"
+    },
+    {
+      "chapter": 45,
+      "title": "第四十五回　金兰契互剖金兰语　风雨夕闷制风雨词",
+      "revision": "2566858",
+      "paragraphs": 16,
+      "characters": 7665,
+      "exact_match": true,
+      "text_sha256": "3b6197ee987b28be0691b046f09f585953d18479b7ebd073ae774fe789d909d4"
+    },
+    {
+      "chapter": 46,
+      "title": "第四十六回　尴尬人难免尴尬事　鸳鸯女誓绝鸳鸯偶",
+      "revision": "2260167",
+      "paragraphs": 16,
+      "characters": 8176,
+      "exact_match": true,
+      "text_sha256": "193f36f098b8cabfcbc1cce56e5a76d6e431581abe7de4d016f399a485fe34ac"
+    },
+    {
+      "chapter": 47,
+      "title": "第四十七回　呆霸王调情遭苦打　冷郎君惧祸走他乡",
+      "revision": "2260169",
+      "paragraphs": 16,
+      "characters": 7219,
+      "exact_match": true,
+      "text_sha256": "150792d6e594ce50212ebd043a7b82c150822e71fc6d8c31c881576ca9db4317"
+    },
+    {
+      "chapter": 48,
+      "title": "第四十八回　滥情人情误思游艺　慕雅女雅集苦吟诗",
+      "revision": "2371245",
+      "paragraphs": 20,
+      "characters": 6568,
+      "exact_match": true,
+      "text_sha256": "54f2cf736caef222e23163f4f649009dd127e66f1959fc2d5372dd2cc9c4fdb3"
+    },
+    {
+      "chapter": 49,
+      "title": "第四十九回　琉璃世界白雪红梅　脂粉香娃割腥啖膻",
+      "revision": "2676128",
+      "paragraphs": 21,
+      "characters": 7241,
+      "exact_match": true,
+      "text_sha256": "89541c586abbc1cee17957b894829cf50dc12d73a4539741aa08238fa1f6c1bb"
+    },
+    {
+      "chapter": 50,
+      "title": "第五十回　芦雪广争联即景诗　暖香坞创制春灯谜",
+      "revision": "2626924",
+      "paragraphs": 125,
+      "characters": 6812,
+      "exact_match": true,
+      "text_sha256": "c5fab151c8b4e6fd30ce97f4b4e4924e76969ad093b10116cfb4a9eb6c9a5aa6"
+    },
+    {
+      "chapter": 51,
+      "title": "第五十一回　薛小妹新编怀古诗　胡庸医乱用虎狼药",
+      "revision": "2371253",
+      "paragraphs": 37,
+      "characters": 6812,
+      "exact_match": true,
+      "text_sha256": "4731738109321fced2c491ce44d6059bcb98b0954d53a47cc16fb30bd4ad498b"
+    },
+    {
+      "chapter": 52,
+      "title": "第五十二回　俏平儿情掩虾须镯　勇晴雯病补雀金裘",
+      "revision": "2566303",
+      "paragraphs": 18,
+      "characters": 8234,
+      "exact_match": true,
+      "text_sha256": "1fc613e8e66ba4c7006b5220ceaf2773015b56b340d541f2fced2078420af354"
+    },
+    {
+      "chapter": 53,
+      "title": "第五十三回　宁国府除夕祭宗祠　荣国府元宵开夜宴",
+      "revision": "2727039",
+      "paragraphs": 22,
+      "characters": 8064,
+      "exact_match": true,
+      "text_sha256": "96c8d70603956585bee8b0b5613fdff4fa8d6ce0e181eb4c905ca99d58996a2f"
+    },
+    {
+      "chapter": 54,
+      "title": "第五十四回　史太君破陈腐旧套　王熙凤效戏彩斑衣",
+      "revision": "2090319",
+      "paragraphs": 15,
+      "characters": 8691,
+      "exact_match": true,
+      "text_sha256": "e4b6ca82007d5d86b4266064d7378fd565968fa0a6459415b463e3d8c6a65710"
+    },
+    {
+      "chapter": 55,
+      "title": "第五十五回　辱亲女愚妾争闲气　欺幼主刁奴蓄险心",
+      "revision": "2114159",
+      "paragraphs": 21,
+      "characters": 8073,
+      "exact_match": true,
+      "text_sha256": "709c005f51f372f0d8f50cbddddf5bf0ca3512a437acfbe0439d32a472030e8e"
+    },
+    {
+      "chapter": 56,
+      "title": "第五十六回　敏探春兴利除宿弊　识宝钗小惠全大体",
+      "revision": "4267185",
+      "paragraphs": 15,
+      "characters": 8650,
+      "exact_match": true,
+      "text_sha256": "27edb0a03d1c8fad9724f0cd7e501ce0f8966bde2ccd5e7c2523b366af3baac0"
+    },
+    {
+      "chapter": 57,
+      "title": "第五十七回　慧紫鹃情辞试莽玉　慈姨妈爱语慰痴颦",
+      "revision": "2114161",
+      "paragraphs": 23,
+      "characters": 11100,
+      "exact_match": true,
+      "text_sha256": "ffad4a230a141388ef97ce974745307c13013952ed124c2755cc12fb2ebae336"
+    },
+    {
+      "chapter": 58,
+      "title": "第五十八回　杏子阴假凤泣虚凰　茜纱窗真情揆痴理",
+      "revision": "2131868",
+      "paragraphs": 16,
+      "characters": 6933,
+      "exact_match": true,
+      "text_sha256": "bd9c122fa8ca5e4f6085140521eacf2596504465dca6e24d2b3c4b47825bd121"
+    },
+    {
+      "chapter": 59,
+      "title": "第五十九回　柳叶渚边嗔莺吒燕　绛芸轩里召将飞符",
+      "revision": "2090363",
+      "paragraphs": 15,
+      "characters": 4948,
+      "exact_match": true,
+      "text_sha256": "880cb93b1ea84a7ac86a3fbfc1099cee3d66c9233796864e443548f59d0b5c41"
+    },
+    {
+      "chapter": 60,
+      "title": "第六十回　茉莉粉替去蔷薇硝　玫瑰露引来茯苓霜",
+      "revision": "2148538",
+      "paragraphs": 26,
+      "characters": 7416,
+      "exact_match": true,
+      "text_sha256": "1071d8ee1bc806678a037e8c4212b123485cade5cda1904432a6466a16136c2f"
+    },
+    {
+      "chapter": 61,
+      "title": "第六十一回　投鼠忌器宝玉瞒赃　判冤决狱平儿行权",
+      "revision": "2090460",
+      "paragraphs": 7,
+      "characters": 6537,
+      "exact_match": true,
+      "text_sha256": "c852c455b13f5e392c312f049e44e4b069d416233cdbf5d6a26cea72e2bfb5a9"
+    },
+    {
+      "chapter": 62,
+      "title": "第六十二回　憨湘云醉眠芍药裀　呆香菱情解石榴裙",
+      "revision": "2642744",
+      "paragraphs": 28,
+      "characters": 11737,
+      "exact_match": true,
+      "text_sha256": "50411f9163f9b0748ec101c3d781fadf167c8b337e044832b8c26c038ec72076"
+    },
+    {
+      "chapter": 63,
+      "title": "第六十三回　寿怡红群芳开夜宴　死金丹独艳理亲丧",
+      "revision": "2643642",
+      "paragraphs": 35,
+      "characters": 11026,
+      "exact_match": true,
+      "text_sha256": "4bc7c74fa640d1ff8fba533137f09454cfae4f9d0305c709ad4956231733d566"
+    },
+    {
+      "chapter": 64,
+      "title": "第六十四回　幽淑女悲题五美吟　浪荡子情遗九龙珮",
+      "revision": "2566853",
+      "paragraphs": 33,
+      "characters": 9577,
+      "exact_match": true,
+      "text_sha256": "06a86f6d46ce9620af5439f875a42a919467da8378767dad3cc4fcea874f3d27"
+    },
+    {
+      "chapter": 65,
+      "title": "第六十五回　贾二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+      "revision": "2645908",
+      "paragraphs": 7,
+      "characters": 6813,
+      "exact_match": true,
+      "text_sha256": "6f2c0d5b33c26243a6258b8681001844f906155468deed5983b1a5157e181251"
+    },
+    {
+      "chapter": 66,
+      "title": "第六十六回　情小妹耻情归地府　冷二郎一冷入空门",
+      "revision": "2147900",
+      "paragraphs": 8,
+      "characters": 5044,
+      "exact_match": true,
+      "text_sha256": "1487f5486c6c264997fd32640978659608ac6011dbd51b194d38aa6c06d8bcf3"
+    },
+    {
+      "chapter": 67,
+      "title": "第六十七回　见土仪颦卿思故里　闻秘事凤姐讯家童",
+      "revision": "2375386",
+      "paragraphs": 18,
+      "characters": 9088,
+      "exact_match": true,
+      "text_sha256": "abc5c2ddc1893631ffcac6a08183dd08fbbc454487a39c7ff5a5f72b664bc94e"
+    },
+    {
+      "chapter": 68,
+      "title": "第六十八回　苦尤娘赚入大观园　酸凤姐大闹宁国府",
+      "revision": "2114177",
+      "paragraphs": 15,
+      "characters": 7360,
+      "exact_match": true,
+      "text_sha256": "047e4ba65e0aa6ea847870f724f4bcaad3a517a7f83e03c9656c58789debfb39"
+    },
+    {
+      "chapter": 69,
+      "title": "第六十九回　弄小巧用借剑杀人　觉大限吞生金自逝",
+      "revision": "2090308",
+      "paragraphs": 12,
+      "characters": 7136,
+      "exact_match": true,
+      "text_sha256": "6091c90afa26b2bc5741075d10d52ff73c61ed55ba233fc1ba1abb32d7616855"
+    },
+    {
+      "chapter": 70,
+      "title": "第七十回　林黛玉重建桃花社　史湘云偶填柳絮词",
+      "revision": "2569397",
+      "paragraphs": 30,
+      "characters": 6312,
+      "exact_match": true,
+      "text_sha256": "8f10cb76b0d14495b50ea23bbf53f13ecbfbecb3c138149b148858c21e498d27"
+    },
+    {
+      "chapter": 71,
+      "title": "第七十一回　嫌隙人有心生嫌隙　鸳鸯女无意遇鸳鸯",
+      "revision": "2147904",
+      "paragraphs": 13,
+      "characters": 8897,
+      "exact_match": true,
+      "text_sha256": "38a670b013e78d4e84a26f460bf16d5888557e583dc2a11622c4d012a7ad7a6c"
+    },
+    {
+      "chapter": 72,
+      "title": "第七十二回　王熙凤恃强羞说病　来旺妇倚势霸成亲",
+      "revision": "2114181",
+      "paragraphs": 8,
+      "characters": 7462,
+      "exact_match": true,
+      "text_sha256": "dabec7d3c6d5b2690ec52d8e0846136d6ce5e9a0adca87711fcf942d53c8f578"
+    },
+    {
+      "chapter": 73,
+      "title": "第七十三回　痴丫头误拾绣春囊　懦小姐不问累金凤",
+      "revision": "2090443",
+      "paragraphs": 9,
+      "characters": 7406,
+      "exact_match": true,
+      "text_sha256": "16929eb7721d01322ff77ec963e2e9198a016bf60042dd524864d62a3110d37b"
+    },
+    {
+      "chapter": 74,
+      "title": "第七十四回　惑奸谗抄拣大观园　矢孤介杜绝宁国府",
+      "revision": "2375414",
+      "paragraphs": 11,
+      "characters": 10933,
+      "exact_match": true,
+      "text_sha256": "f80514abd1dc4266dd29ae2dfd7e80bd47ede2d222521f50be9971ca22735f5e"
+    },
+    {
+      "chapter": 75,
+      "title": "第七十五回　开夜宴异兆发悲音　赏中秋新词得佳谶",
+      "revision": "2148540",
+      "paragraphs": 11,
+      "characters": 9491,
+      "exact_match": true,
+      "text_sha256": "d124e7a93e23263ffa797dd8eb71d20c038b964dcdfbb9a807be3aa934ecea5e"
+    },
+    {
+      "chapter": 76,
+      "title": "第七十六回　凸碧堂品笛感凄清　凹晶馆联诗悲寂寞",
+      "revision": "2371666",
+      "paragraphs": 57,
+      "characters": 7391,
+      "exact_match": true,
+      "text_sha256": "e3d90066dc04f17c5e1f9580cc9db1ae01237fdf4ee10b2d9077401c464c202a"
+    },
+    {
+      "chapter": 77,
+      "title": "第七十七回　俏丫鬟抱屈夭风流　美优伶斩情归水月",
+      "revision": "2603699",
+      "paragraphs": 9,
+      "characters": 10471,
+      "exact_match": true,
+      "text_sha256": "e7420c4b328cf2a1752377d848ca8eab8da315f01e4b4298ea209ead6a31fe16"
+    },
+    {
+      "chapter": 78,
+      "title": "第七十八回　老学士闲征姽婳词　痴公子杜撰芙蓉诔",
+      "revision": "2571902",
+      "paragraphs": 42,
+      "characters": 10629,
+      "exact_match": true,
+      "text_sha256": "8a0085844795d22082aa5321431997e5f7597593a443d61a152d6c14fd78134c"
+    },
+    {
+      "chapter": 79,
+      "title": "第七十九回　薛文龙悔娶河东狮　贾迎春误嫁中山狼",
+      "revision": "2371670",
+      "paragraphs": 6,
+      "characters": 4728,
+      "exact_match": true,
+      "text_sha256": "eebc9212e7acd0a1129d966271c9cbf637a541a1649ad210c72f10e62dfab04e"
+    },
+    {
+      "chapter": 80,
+      "title": "第八十回　懦弱迎春肠回九曲　姣怯香菱病入膏肓",
+      "revision": "2375419",
+      "paragraphs": 8,
+      "characters": 6794,
+      "exact_match": true,
+      "text_sha256": "5dd624a5fb5d046426f699d7ab54b98a7110e6e13e4eb12212b76068c7c03323"
+    },
+    {
+      "chapter": 81,
+      "title": "第八十一回　占旺相四美钓游鱼　奉严词两番入家塾",
+      "revision": "2114203",
+      "paragraphs": 12,
+      "characters": 6821,
+      "exact_match": true,
+      "text_sha256": "3dde322a8b13d60b951888d794633182e0c806e20891de35943b07402636a839"
+    },
+    {
+      "chapter": 82,
+      "title": "第八十二回　老学究讲义警顽心　病潇湘痴魂惊恶梦",
+      "revision": "2114205",
+      "paragraphs": 12,
+      "characters": 8403,
+      "exact_match": true,
+      "text_sha256": "10fa7766a0c9b598f169064daa5451f620414bafb74487502a260cb5a169570f"
+    },
+    {
+      "chapter": 83,
+      "title": "第八十三回　省宫闱贾元妃染恙　闹闺阃薛宝钗吞声",
+      "revision": "2371671",
+      "paragraphs": 16,
+      "characters": 8021,
+      "exact_match": true,
+      "text_sha256": "db23c52680a39d810c5b013fe97bd127c515cac9d6fe484a46e7499920c6ca95"
+    },
+    {
+      "chapter": 84,
+      "title": "第八十四回　试文字宝玉始提亲　探惊风贾环重结怨",
+      "revision": "2114221",
+      "paragraphs": 16,
+      "characters": 7637,
+      "exact_match": true,
+      "text_sha256": "cd9b2782a8324f1849dde22474b8043eaf6b0b31af668fbfa3ba61e5affa7452"
+    },
+    {
+      "chapter": 85,
+      "title": "第八十五回　贾存周报升郎中任　薛文起复惹放流刑",
+      "revision": "2371672",
+      "paragraphs": 21,
+      "characters": 7948,
+      "exact_match": true,
+      "text_sha256": "85788a9122c6b151e1c3059c1a42453623adace1f6ff8a81f6ba8fc45e2370fb"
+    },
+    {
+      "chapter": 86,
+      "title": "第八十六回　受私贿老官翻案牍　寄闲情淑女解琴书",
+      "revision": "2371673",
+      "paragraphs": 14,
+      "characters": 6651,
+      "exact_match": true,
+      "text_sha256": "e67920fbf8c93d7a17b12292183fb7f4cd8c8ca471052262ecf6cbee2f8e0a69"
+    },
+    {
+      "chapter": 87,
+      "title": "第八十七回　感深秋抚琴悲往事　坐禅寂走火入邪魔",
+      "revision": "2371678",
+      "paragraphs": 23,
+      "characters": 6566,
+      "exact_match": true,
+      "text_sha256": "2444bf8ea9859e9481464388513bcd9d1835f20172245b60f686fc333b71b5d4"
+    },
+    {
+      "chapter": 88,
+      "title": "第八十八回　博庭欢宝玉赞孤儿　正家法贾珍鞭悍仆",
+      "revision": "2090251",
+      "paragraphs": 11,
+      "characters": 6648,
+      "exact_match": true,
+      "text_sha256": "e7bf1a1d70869d19fa5d7738c7f12ff42720536d1213a9c072870d47d78dd364"
+    },
+    {
+      "chapter": 89,
+      "title": "第八十九回　人亡物在公子填词　蛇影杯弓颦卿绝粒",
+      "revision": "2371676",
+      "paragraphs": 17,
+      "characters": 5996,
+      "exact_match": true,
+      "text_sha256": "cf0484a42a321e4e55d2d09f8e7e2e3165af96e7ebbc3dde88b26e2cde6e4a1f"
+    },
+    {
+      "chapter": 90,
+      "title": "第九十回　失绵衣贫女耐嗷嘈　送果品小郎惊叵测",
+      "revision": "2371679",
+      "paragraphs": 14,
+      "characters": 6138,
+      "exact_match": true,
+      "text_sha256": "262abf2ccb4345a0d3cca13c6c5b5713808d4f2c87028f7f60c3e35a1ee8fa03"
+    },
+    {
+      "chapter": 91,
+      "title": "第九十一回　纵淫心宝蟾工设计　布疑阵宝玉妄谈禅",
+      "revision": "2371680",
+      "paragraphs": 11,
+      "characters": 5350,
+      "exact_match": true,
+      "text_sha256": "fe344914911a51db1230f69f4c6664b1cf4c434977adf5891978de99fb255fe8"
+    },
+    {
+      "chapter": 92,
+      "title": "第九十二回　评女传巧姐慕贤良　玩母珠贾政参聚散",
+      "revision": "2114237",
+      "paragraphs": 10,
+      "characters": 6995,
+      "exact_match": true,
+      "text_sha256": "1f251de4645a8db07d38ecd75132032cdc96b0bf901c92b6af2955d9f2e41cca"
+    },
+    {
+      "chapter": 93,
+      "title": "第九十三回　甄家仆投靠贾家门　水月庵掀翻风月案",
+      "revision": "2371681",
+      "paragraphs": 17,
+      "characters": 6437,
+      "exact_match": true,
+      "text_sha256": "c53ea567f229e9dacffb661ed2725d713d5315d2320e840d26e3d716ef7cd79b"
+    },
+    {
+      "chapter": 94,
+      "title": "第九十四回　宴海棠贾母赏花妖　失宝玉通灵知奇祸",
+      "revision": "2371682",
+      "paragraphs": 22,
+      "characters": 8184,
+      "exact_match": true,
+      "text_sha256": "ccd131f88bf5dbbd7e00fc8d0ecf7682bddc2e4be0d908134467e1adf2c89b14"
+    },
+    {
+      "chapter": 95,
+      "title": "第九十五回　因讹成实元妃薨逝　以假混真宝玉疯颠",
+      "revision": "2371684",
+      "paragraphs": 15,
+      "characters": 6533,
+      "exact_match": true,
+      "text_sha256": "d279e82a67a1c75790d4973859008bcd633797974381a19fc02f1691b22e3409"
+    },
+    {
+      "chapter": 96,
+      "title": "第九十六回　瞒消息凤姐设奇谋　泄机关颦儿迷本性",
+      "revision": "2090330",
+      "paragraphs": 10,
+      "characters": 6669,
+      "exact_match": true,
+      "text_sha256": "2457a96cb166988b7b91c68581b96107b9d64dd9992f52a5c5917b7cbb3b87ef"
+    },
+    {
+      "chapter": 97,
+      "title": "第九十七回　林黛玉焚稿断痴情　薛宝钗出闺成大礼",
+      "revision": "2090339",
+      "paragraphs": 21,
+      "characters": 9796,
+      "exact_match": true,
+      "text_sha256": "d6e3178bd27f3449acec33ef4d8710339949b58295214070fcface6e0cb9cfeb"
+    },
+    {
+      "chapter": 98,
+      "title": "第九十八回　苦绛珠魂归离恨天　病神瑛泪洒相思地",
+      "revision": "2090341",
+      "paragraphs": 16,
+      "characters": 5831,
+      "exact_match": true,
+      "text_sha256": "041a65615b77f68e3177df5b357cc160200825b5cfd895520ec7ccfaf6b56829"
+    },
+    {
+      "chapter": 99,
+      "title": "第九十九回　守官箴恶奴同破例　阅邸报老舅自担惊",
+      "revision": "2371685",
+      "paragraphs": 13,
+      "characters": 5926,
+      "exact_match": true,
+      "text_sha256": "42ebd9c4981451d0d1cb48461d5c0d1863fdece90fb2c22a7f13be95415696a7"
+    },
+    {
+      "chapter": 100,
+      "title": "第一零零回　破好事香菱结深恨　悲远嫁宝玉感离情",
+      "revision": "2090281",
+      "paragraphs": 7,
+      "characters": 5569,
+      "exact_match": true,
+      "text_sha256": "eb4f1fda31f84aa3c3a53e466f14dd5be03d744950750d65645757ec2140f698"
+    },
+    {
+      "chapter": 101,
+      "title": "第一零一回　大观园月夜感幽魂　散花寺神签惊异兆",
+      "revision": "2371687",
+      "paragraphs": 15,
+      "characters": 7888,
+      "exact_match": true,
+      "text_sha256": "fd3fe6a5fca044200f6cea5235f54ba102feb70591a2479d2cf5f52d24b7ce68"
+    },
+    {
+      "chapter": 102,
+      "title": "第一零二回　宁国府骨肉病灾襟　大观园符水驱妖孽",
+      "revision": "2090315",
+      "paragraphs": 11,
+      "characters": 4872,
+      "exact_match": true,
+      "text_sha256": "107ceccf6d444ffc7ee49cbde45aa89d09a5384c86d6007f16543f396da4773f"
+    },
+    {
+      "chapter": 103,
+      "title": "第一零三回　施毒计金桂自焚身　昧真禅雨村空遇旧",
+      "revision": "2114244",
+      "paragraphs": 13,
+      "characters": 6837,
+      "exact_match": true,
+      "text_sha256": "618964bd944460e84470d017d5796ac92e273901c22e840871a9af5aafa863c5"
+    },
+    {
+      "chapter": 104,
+      "title": "第一零四回　醉金刚小鳅生大浪　痴公子馀痛触前情",
+      "revision": "2090447",
+      "paragraphs": 16,
+      "characters": 6176,
+      "exact_match": true,
+      "text_sha256": "058e8210d535884b430954aed28a22691de2b24d30457e89682ba55fcbede225"
+    },
+    {
+      "chapter": 105,
+      "title": "第一零五回　锦衣军查抄宁国府　骢马使弹劾平安州",
+      "revision": "2114531",
+      "paragraphs": 9,
+      "characters": 5368,
+      "exact_match": true,
+      "text_sha256": "f8fe7ce82cfdd8dd2d80c924b441741520bf59b1400a0d2ed009c722f185fb79"
+    },
+    {
+      "chapter": 106,
+      "title": "第一零六回　王熙凤致祸抱羞惭　贾太君祷天消祸患",
+      "revision": "2142539",
+      "paragraphs": 8,
+      "characters": 5670,
+      "exact_match": true,
+      "text_sha256": "03dafd0761773a09c6654b31d6215233d6623de23e2c48e1eabdd54a09e91ec7"
+    },
+    {
+      "chapter": 107,
+      "title": "第一零七回　散馀资贾母明大义　复世职政老沐天恩",
+      "revision": "2090292",
+      "paragraphs": 8,
+      "characters": 6204,
+      "exact_match": true,
+      "text_sha256": "7ea61550287f59ccff134dfd01b2c7936167fde934c97dd4fd0a566944ce58c5"
+    },
+    {
+      "chapter": 108,
+      "title": "第一零八回　强欢笑蘅芜庆生辰　死缠绵潇湘闻鬼哭",
+      "revision": "2142543",
+      "paragraphs": 9,
+      "characters": 6980,
+      "exact_match": true,
+      "text_sha256": "497ea40c628ed6fd7416c2795f430d3d9692f3841932682c13ff7310fa442d76"
+    },
+    {
+      "chapter": 109,
+      "title": "第一零九回　候芳魂五儿承错爱　还孽债迎女返真元",
+      "revision": "2142554",
+      "paragraphs": 16,
+      "characters": 9019,
+      "exact_match": true,
+      "text_sha256": "5a35dbed96107c5688d13859493ba8687df798c893e9645af4c0a9cfa18f9d6f"
+    },
+    {
+      "chapter": 110,
+      "title": "第一一零回　史太君寿终归地府　王凤姐力诎失人心",
+      "revision": "2142612",
+      "paragraphs": 10,
+      "characters": 6645,
+      "exact_match": true,
+      "text_sha256": "89adc11e8c0b5a171aa8737d1528558108fc7fceb41cf29220bc2023a5ac1dd2"
+    },
+    {
+      "chapter": 111,
+      "title": "第一一一回　鸳鸯女殉主登太虚　狗彘奴欺天招伙盗",
+      "revision": "2142665",
+      "paragraphs": 11,
+      "characters": 7222,
+      "exact_match": true,
+      "text_sha256": "46c6a586c14cc86bed57e15fd72fd934eeb3fb97298b67fa526b8bcb2a474a6b"
+    },
+    {
+      "chapter": 112,
+      "title": "第一一二回　活冤孽妙尼遭大劫　死仇仇赵妾赴冥曹",
+      "revision": "2142698",
+      "paragraphs": 23,
+      "characters": 6937,
+      "exact_match": true,
+      "text_sha256": "8bd13e648c75368a77f5bd301b98c785bbb7ac6d611dcf96ba5489de3a3eaa95"
+    },
+    {
+      "chapter": 113,
+      "title": "第一一三回　忏宿冤凤姐托村妪　释旧憾情婢感痴郎",
+      "revision": "2114537",
+      "paragraphs": 12,
+      "characters": 6899,
+      "exact_match": true,
+      "text_sha256": "4059d4b510b14a5022e2ade96c70d45d7d95d75c34173016898b02da9c949355"
+    },
+    {
+      "chapter": 114,
+      "title": "第一一四回　王熙凤历幻返金陵　甄应嘉蒙恩还玉阙",
+      "revision": "2114538",
+      "paragraphs": 8,
+      "characters": 4918,
+      "exact_match": true,
+      "text_sha256": "a7a9a72e25fed939d4c20927ee889884d458308a9fc9046258eccd65e4ee75e0"
+    },
+    {
+      "chapter": 115,
+      "title": "第一一五回　惑偏私惜春矢素志　证同类宝玉失相知",
+      "revision": "2143109",
+      "paragraphs": 16,
+      "characters": 6877,
+      "exact_match": true,
+      "text_sha256": "9292429c1a30cad1d0e6f5c97de57fc66e4a5854128ecc2ffc43969b41c99e4e"
+    },
+    {
+      "chapter": 116,
+      "title": "第一一六回　得通灵幻境悟仙缘　送慈柩故乡全孝道",
+      "revision": "2371688",
+      "paragraphs": 16,
+      "characters": 6793,
+      "exact_match": true,
+      "text_sha256": "95c992ca02675c1a95565ee24e2f584c2a61a17b7974379bb2eb904fbd64744c"
+    },
+    {
+      "chapter": 117,
+      "title": "第一一七回　阻超凡佳人双护玉　欣聚党恶子独承家",
+      "revision": "2114540",
+      "paragraphs": 9,
+      "characters": 7597,
+      "exact_match": true,
+      "text_sha256": "cd3e6bf289ba041b30e0756b4a84bef8707fe4e4028dbc73e75336c22c61eb9a"
+    },
+    {
+      "chapter": 118,
+      "title": "第一一八回　记微嫌舅兄欺弱女　惊谜语妻妾谏痴人",
+      "revision": "2371689",
+      "paragraphs": 17,
+      "characters": 7468,
+      "exact_match": true,
+      "text_sha256": "792bd4bfc2316b71bcc21dd291140ab57c00fdeae80973d4126edf4101766cda"
+    },
+    {
+      "chapter": 119,
+      "title": "第一一九回　中乡魁宝玉却尘缘　沐皇恩贾家延世泽",
+      "revision": "2371691",
+      "paragraphs": 22,
+      "characters": 9437,
+      "exact_match": true,
+      "text_sha256": "632ff267c7d90f6f4870556f58362cd108f6c7f79cfcc96f3f282531f2275fca"
+    },
+    {
+      "chapter": 120,
+      "title": "第一二零回　甄士隐详说太虚情　贾雨村归结红楼梦",
+      "revision": "2371692",
+      "paragraphs": 21,
+      "characters": 7721,
+      "exact_match": true,
+      "text_sha256": "539475340e093e1744582ea18c990133f920edfcaba36c51e65312931ee4d9a4"
     }
   ],
-  "total_paragraphs": 297,
-  "total_characters": 67398,
+  "total_paragraphs": 2396,
+  "total_characters": 862670,
   "all_exactly_equal": true,
   "source_original_images": 4,
-  "generated_paintings": 12
+  "generated_paintings": 20,
+  "illustrated_chapters": 18
 }

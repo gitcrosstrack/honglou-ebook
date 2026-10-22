@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from import_sources import extract
 import hashlib
 import json
+import re
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -19,7 +20,7 @@ def verify(html_path=None):
         actual=[p.get_text() for p in section.select('.original')]
         assert actual==expected, f'Chapter {ch["id"]} differs from frozen source'
         assert ch['title']==title and ch['revision']==revision
-        assert ''.join(section.h2.stripped_strings)==''.join(title.split('　')[1:])
+        assert ''.join(section.h2.stripped_strings)==''.join(re.split(r'[\s\u3000]+',title,maxsplit=2)[1:])
         digest=hashlib.sha256('\n\n'.join(expected).encode()).hexdigest()
         assert ch['text_sha256']==digest
         assert ch['html_sha256']==hashlib.sha256((ROOT/ch['frozenSource']).read_bytes()).hexdigest()
@@ -34,8 +35,9 @@ def verify(html_path=None):
     for ill in json.loads((ROOT/'data/illustrations.json').read_text()):
         expected=metadata[ill['chapter']-1]['blocks'][ill['before']]['text']
         assert expected.startswith(ill['source_excerpt'])
-    assert len(doc.select('.chapter-page'))==10
-    return {'chapters':report,'total_paragraphs':sum(c['paragraphs'] for c in report),'total_characters':sum(c['characters'] for c in report),'all_exactly_equal':True,'source_original_images':4,'generated_paintings':12}
+    assert len(doc.select('.chapter-page'))==len(metadata)==120
+    images=json.loads((ROOT/'data/illustrations.json').read_text())
+    return {'chapters':report,'total_paragraphs':sum(c['paragraphs'] for c in report),'total_characters':sum(c['characters'] for c in report),'all_exactly_equal':True,'source_original_images':sum(sum(b['type']=='source-image' for b in ch['blocks']) for ch in metadata),'generated_paintings':len(images)+1,'illustrated_chapters':len({i['chapter'] for i in images})}
 
 if __name__=='__main__':
     report=verify()

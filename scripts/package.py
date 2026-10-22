@@ -25,10 +25,10 @@ def main():
     target=Path(sys.argv[1]).resolve() if len(sys.argv)>1 else ROOT/'build'
     target.mkdir(parents=True,exist_ok=True)
     report=verify()
-    output=target/'红楼梦前十回.html';output.write_text(standalone())
+    output=target/'红楼梦全120回.html';output.write_text(standalone())
     assert verify(output)['all_exactly_equal']
-    (target/'前十回文字校验.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
-    with zipfile.ZipFile(target/'红楼梦前十回-完整源码.zip','w',zipfile.ZIP_DEFLATED) as z:
+    (target/'全120回文字校验.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+    with zipfile.ZipFile(target/'红楼梦全120回-完整源码.zip','w',zipfile.ZIP_DEFLATED) as z:
         for p in ROOT.rglob('*'):
             rel=p.relative_to(ROOT)
             if p.is_file() and not any(s in {'.git','__pycache__','build'} for s in rel.parts):z.write(p,Path('honglou-ebook')/rel)

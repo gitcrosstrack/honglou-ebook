@@ -9,7 +9,7 @@
   saved.positions ||= {};
   saved.bookmarks ||= {};
   const initialResume = saved.last ? {...saved.last} : null;
-  let chapter = 1, current = 0, timer;
+  let chapter = 1, current = 0, timer, observer;
   let font = Number(saved.font) || (matchMedia('(max-width:600px)').matches ? 18 : 20);
   const persist = () => { try { localStorage.setItem(key, JSON.stringify(saved)); } catch {} };
   const smooth = () => matchMedia('(prefers-reduced-motion:reduce)').matches ? 'instant' : 'smooth';
@@ -77,6 +77,9 @@
     current = index;
     sections.forEach((section,i) => section.hidden = i !== number-1);
     const section = sections[number-1];
+    observer?.disconnect();
+    section.querySelectorAll('.original').forEach(p => observer?.observe(p));
+    $$('.toc-volume').forEach(group => group.open = Number(group.dataset.volume) === Math.ceil(number / 10));
     $$('[data-chapter]').forEach(b => {
       const active = Number(b.dataset.chapter) === number;
       b.classList.toggle('active', active);
@@ -86,7 +89,7 @@
     $('#current-select').value = String(number);
     $$('[data-action=prev]').forEach(b => b.disabled = number === 1);
     $$('[data-action=next]').forEach(b => b.disabled = number === sections.length);
-    $('#current-stat').textContent = '本回 ' + Number(section.dataset.characters).toLocaleString('zh-CN') + ' 字 · 共十回';
+    $('#current-stat').textContent = '本回 ' + Number(section.dataset.characters).toLocaleString('zh-CN') + ' 字 · 共 ' + sections.length + ' 回';
     document.title = '红楼梦 · ' + section.dataset.label + ' | 一卷红楼';
     const target = (index > 0 ? document.getElementById('ch'+number+'-p'+index) : section) || section;
     if (route) setHash('#chapter-'+number);
@@ -104,16 +107,35 @@
   }
   $$('[data-chapter]').forEach(b => b.addEventListener('click', () => selectChapter(b.dataset.chapter)));
   $('#current-select').addEventListener('change', e => selectChapter(e.target.value));
+  $('#toc-search').addEventListener('input', e => {
+    const query = e.target.value.trim();
+    $$('#toc-dialog .toc-volume').forEach(group => {
+      let count = 0;
+      group.querySelectorAll('[data-chapter]').forEach(button => {
+        const matches = !query || button.dataset.search.includes(query) || button.dataset.chapter === query;
+        button.hidden = !matches;
+        if (matches) count++;
+      });
+      group.hidden = count === 0;
+      group.open = query ? count > 0 : Number(group.dataset.volume) === Math.ceil(chapter / 10);
+    });
+  });
+  function openToc() {
+    $('#toc-search').value = '';
+    $('#toc-search').dispatchEvent(new Event('input'));
+    updateBookmarks();
+    $('#toc-dialog').showModal();
+  }
   $$('[data-action]').forEach(b => b.addEventListener('click', () => {
     switch (b.dataset.action) {
-      case 'toc': updateBookmarks(); $('#toc-dialog').showModal(); break;
+      case 'toc': openToc(); break;
       case 'settings': $('#settings').showModal(); break;
       case 'night': theme(saved.theme === 'night' ? 'paper' : 'night'); break;
       case 'prev': selectChapter(chapter-1); break;
       case 'next': selectChapter(chapter+1); break;
       case 'start': selectChapter(1); break;
       case 'bookmark': saved.bookmarks[chapter]=current; persist(); updateBookmarks(); toast(sections[chapter-1].dataset.label+'书签已保存'); break;
-      case 'saved': updateBookmarks(); $('#toc-dialog').showModal(); break;
+      case 'saved': openToc(); break;
       case 'top': window.scrollTo({top:0,behavior:smooth()}); break;
       case 'source': {
         const detail = sections[chapter-1].querySelector('.source');
@@ -145,13 +167,13 @@
   selectChapter(1,{scroll:false,route:false});
   if(location.hash) requestAnimationFrame(route);
   window.addEventListener('hashchange',route);
-  const observer=new IntersectionObserver(()=>{
+  observer=new IntersectionObserver(()=>{
     const visible=[...sections[chapter-1].querySelectorAll('.original')].filter(p=>{
       const r=p.getBoundingClientRect();return r.bottom>innerHeight*.1&&r.top<innerHeight*.75;
     });
     if(visible.length)updateProgress(Number(visible[0].dataset.index));
   },{rootMargin:'-10% 0px -25% 0px',threshold:0});
-  $$('.original').forEach(p=>observer.observe(p));
+  sections[chapter-1].querySelectorAll('.original').forEach(p=>observer.observe(p));
   const coverObserver=new IntersectionObserver(entries=>{
     entries.forEach(e=>$('.reader-bar').classList.toggle('visible',!e.isIntersecting));
   });
