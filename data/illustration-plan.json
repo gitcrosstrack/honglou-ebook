@@ -553,10 +553,10 @@
     "before": 5,
     "title": "土仪忆乡",
     "scene": "见土仪颦卿思故里",
-    "alt": "宝钗把江南土产小物送给黛玉，黛玉望物思乡，紫鹃在旁，案上小巧竹器绣物，清雅室内。",
+    "alt": "黛玉凝视宝钗派人送来的江南土产小物，触物思乡，紫鹃在旁轻声安慰，案上小巧竹器绣物，清雅室内。",
     "source_excerpt": "这边姊妹诸人都收了东西，赏赐来使，说见面再谢。惟有林黛玉看见他家乡之物，反自触物伤情，想起父母双亡，又无兄弟，寄居亲戚家中，那里有人也给我带些土物？想到这里，不觉的又伤起心来了。紫",
-    "description": "宝钗把江南土产小物送给黛玉，黛玉望物思乡，紫鹃在旁，案上小巧竹器绣物，清雅室内。",
-    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 67. 宝钗把江南土产小物送给黛玉，黛玉望物思乡，紫鹃在旁，案上小巧竹器绣物，清雅室内。 Source excerpt for correspondence only: 这边姊妹诸人都收了东西，赏赐来使，说见面再谢。惟有林黛玉看见他家乡之物，反自触物伤情，想起父母双亡，又无兄弟，寄居亲戚家中，那里有人也给我带些土物？想到这里，不觉的又伤起心来了。紫鹃深知黛玉心肠，但也不敢说破，只在一旁劝道：“姑娘的身子多病，早晚服药，这两日看著比那些日子略好些。虽说精神长了一点儿，还算不得十分大好。今儿宝姑娘送来的这些东西，可见宝姑娘素日看得姑娘很重，姑娘看著该喜欢才是，为什么反倒伤起心来。这不是宝姑娘送东西来倒叫姑娘烦恼了不成？就是宝姑娘听见，反觉脸上不好看。再者这里老太太们为姑娘的病体，千方百计请好大夫配药诊治，也为是姑娘的病好。这如今才好些，又这样哭哭啼啼，岂不是自己遭"
+    "description": "黛玉凝视宝钗派人送来的江南土产小物，触物思乡，紫鹃在旁轻声安慰，案上小巧竹器绣物，清雅室内。",
+    "prompt": "Use case: historical-scene. Refined classical Chinese gongbi and ink-wash album illustration, landscape 3:2, warm antique xuan paper, delicate ink contours and muted jade mineral pigments, smoky grey, restrained cinnabar. Fully clothed period Chinese figures, balanced architecture and landscape, no photography or modern objects, no readable text, seals, watermarks or frames. Illustrate one coherent scene strictly from the indicated chapter of Dream of the Red Chamber. Chapter 67. 黛玉凝视宝钗派人送来的江南土产小物，触物思乡，紫鹃在旁轻声安慰，案上小巧竹器绣物，清雅室内。 Source excerpt for correspondence only: 这边姊妹诸人都收了东西，赏赐来使，说见面再谢。惟有林黛玉看见他家乡之物，反自触物伤情，想起父母双亡，又无兄弟，寄居亲戚家中，那里有人也给我带些土物？想到这里，不觉的又伤起心来了。紫鹃深知黛玉心肠，但也不敢说破，只在一旁劝道：“姑娘的身子多病，早晚服药，这两日看著比那些日子略好些。虽说精神长了一点儿，还算不得十分大好。今儿宝姑娘送来的这些东西，可见宝姑娘素日看得姑娘很重，姑娘看著该喜欢才是，为什么反倒伤起心来。这不是宝姑娘送东西来倒叫姑娘烦恼了不成？就是宝姑娘听见，反觉脸上不好看。再者这里老太太们为姑娘的病体，千方百计请好大夫配药诊治，也为是姑娘的病好。这如今才好些，又这样哭哭啼啼，岂不是自己遭"
   },
   {
     "chapter": 68,
@@ -851,7 +851,7 @@
   {
     "chapter": 97,
     "before": 13,
-    "title": "焚稿秋灯",
+    "title": "焚稿孤灯",
     "scene": "林黛玉焚稿断痴情",
     "alt": "黛玉整齐淡色衣装坐于灯下，将诗稿与旧帕投向小火盆，紫鹃在旁劝阻，神情悲伤；仅纸张小火，无自伤或血。",
     "source_excerpt": "手中，瞅著那火点点头儿，往上一撂。紫鹃唬了一跳，欲要抢时，两只手却不敢动。雪雁又出去拿火盆桌子，此时那绢子已经烧著了。紫鹃劝道：“姑娘这是怎么说呢。”黛玉只作不闻，回手又把那诗稿拿",
@@ -903,10 +903,10 @@
     "before": 0,
     "title": "嫂语慰别",
     "scene": "宁国府骨肉病灾襟",
-    "alt": "宝钗依王夫人嘱咐开导将要远嫁的探春，室内两位女子对坐说话，茶几和整齐行装，离情温婉。",
+    "alt": "王夫人在室内嘱咐宝钗去开导将要远嫁的探春，宝钗端坐倾听，帘幕、茶几与素净屏风，长辈与儿媳的安静对话。",
     "source_excerpt": "话说王夫人打发人来唤宝钗，宝钗连忙过来，请了安。王夫人道：“你三妹妹如今要出嫁了，只得你们作嫂子的大家开导开导他，也是你们姊妹之情。况且他也是个明白孩子，我看你们两个也很合的来。只",
-    "description": "宝钗依王夫人嘱咐开导将要远嫁的探春，室内两位女子对坐说话，茶几和整齐行装，离情温婉。",
-    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 102. 宝钗依王夫人嘱咐开导将要远嫁的探春，室内两位女子对坐说话，茶几和整齐行装，离情温婉。 Source locating fragment (not text to draw): 话说王夫人打发人来唤宝钗，宝钗连忙过来，请了安。王夫人道：“你三妹妹如今要出嫁了，只得你们作嫂子的大家开导开导他，也是你们姊妹之情。况且他也是个明白孩子，我看你们两个也很合的来。只是我听见说宝玉听见他三妹妹出门子，哭的了不的，你也该劝劝他。如今我的身子是十病九痛的，你二嫂子也是三日好两日不好。你还心地明白些，诸事也别说"
+    "description": "王夫人在室内嘱咐宝钗去开导将要远嫁的探春，宝钗端坐倾听，帘幕、茶几与素净屏风，长辈与儿媳的安静对话。",
+    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 102. 王夫人在室内嘱咐宝钗去开导将要远嫁的探春，宝钗端坐倾听，帘幕、茶几与素净屏风，长辈与儿媳的安静对话。 Source locating fragment (not text to draw): 话说王夫人打发人来唤宝钗，宝钗连忙过来，请了安。王夫人道：“你三妹妹如今要出嫁了，只得你们作嫂子的大家开导开导他，也是你们姊妹之情。况且他也是个明白孩子，我看你们两个也很合的来。只是我听见说宝玉听见他三妹妹出门子，哭的了不的，你也该劝劝他。如今我的身子是十病九痛的，你二嫂子也是三日好两日不好。你还心地明白些，诸事也别说"
   },
   {
     "chapter": 103,
@@ -933,10 +933,10 @@
     "before": 0,
     "title": "府门查抄",
     "scene": "锦衣军查抄宁国府",
-    "alt": "锦衣府官员来到宁国府，贾政与家人站在厅中接待，官差拿册清点箱物，气氛严肃；无暴力、无绳索或伤害。",
+    "alt": "锦衣府官员来到贾府，贾政与家人站在厅中接待，官差拿册清点箱物，气氛严肃；无暴力、无绳索或伤害。",
     "source_excerpt": "话说贾政正在那里设宴请酒，忽见赖大急忙走上荣禧堂来回贾政道：“有锦衣府堂官赵老爷带领好几位司官说来拜望。奴才要取职名来回，赵老爷说：‘我们至好，不用的。’一面就下车来走进来了。请老",
-    "description": "锦衣府官员来到宁国府，贾政与家人站在厅中接待，官差拿册清点箱物，气氛严肃；无暴力、无绳索或伤害。",
-    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 105. 锦衣府官员来到宁国府，贾政与家人站在厅中接待，官差拿册清点箱物，气氛严肃；无暴力、无绳索或伤害。 Source locating fragment (not text to draw): 话说贾政正在那里设宴请酒，忽见赖大急忙走上荣禧堂来回贾政道：“有锦衣府堂官赵老爷带领好几位司官说来拜望。奴才要取职名来回，赵老爷说：‘我们至好，不用的。’一面就下车来走进来了。请老爷同爷们快接去。”贾政听了，心想：“赵老爷并无来往，怎么也来？现在有客，留他不便，不留又不好。”正自思想，贾琏说：“叔叔快去罢，再想一回，人都进来了。”正说著，只见二门上家人又报进来说"
+    "description": "锦衣府官员来到贾府，贾政与家人站在厅中接待，官差拿册清点箱物，气氛严肃；无暴力、无绳索或伤害。",
+    "prompt": "Use case: historical-scene. Exquisite traditional Chinese gongbi and subtle ink-wash album illustration for Dream of the Red Chamber, wide 3:2 landscape, fine contours, warm antique xuan paper, muted jade and smoky grey mineral pigments, restrained cinnabar. Fully clothed period Chinese figures, no modern objects, photography, readable text, seals, watermarks or border. Focus on the single stated chapter moment; do not introduce events from other chapters. Chapter 105. 锦衣府官员来到贾府，贾政与家人站在厅中接待，官差拿册清点箱物，气氛严肃；无暴力、无绳索或伤害。 Source locating fragment (not text to draw): 话说贾政正在那里设宴请酒，忽见赖大急忙走上荣禧堂来回贾政道：“有锦衣府堂官赵老爷带领好几位司官说来拜望。奴才要取职名来回，赵老爷说：‘我们至好，不用的。’一面就下车来走进来了。请老爷同爷们快接去。”贾政听了，心想：“赵老爷并无来往，怎么也来？现在有客，留他不便，不留又不好。”正自思想，贾琏说：“叔叔快去罢，再想一回，人都进来了。”正说著，只见二门上家人又报进来说"
   },
   {
     "chapter": 106,
