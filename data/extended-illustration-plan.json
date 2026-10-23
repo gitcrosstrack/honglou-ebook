@@ -1388,5 +1388,405 @@
     "scene": "柳絮拟词",
     "source_excerpt": "写了绾在壁上",
     "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 70. Scene: 黛玉房中，湘云携新作与黛玉及姐妹讨论柳絮词题，壁上挂几条无可读字的诗笺，案前纸笔果点，窗外柳絮轻扬，春日吟咏气氛。"
+  },
+  {
+    "id": "dense-071-2",
+    "chapter": 71,
+    "before": 1,
+    "title": "太妃见礼",
+    "alt": "贾母八旬寿庆园中，南安太妃慈祥地牵着探春和宝钗问年岁，黛玉、湘云、宝琴在旁行礼，贾母含笑陪坐，盘中戒指香珠为见面礼。",
+    "scene": "太妃见礼",
+    "source_excerpt": "一手拉著探春，一手拉著宝钗",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 71. Scene: 贾母八旬寿庆园中，南安太妃慈祥地牵着探春和宝钗问年岁，黛玉、湘云、宝琴在旁行礼，贾母含笑陪坐，盘中戒指香珠为见面礼。"
+  },
+  {
+    "id": "dense-071-3",
+    "chapter": 71,
+    "before": 10,
+    "title": "晓翠闲谈",
+    "alt": "晓翠堂夜间，鸳鸯前来传话，李纨、尤氏、探春和宝玉等让她坐下，堂内茶盏灯火，园中宴后暂得闲暇，众人围坐交谈。",
+    "scene": "晓翠闲谈",
+    "source_excerpt": "鸳鸯回身又来至晓翠堂",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 71. Scene: 晓翠堂夜间，鸳鸯前来传话，李纨、尤氏、探春和宝玉等让她坐下，堂内茶盏灯火，园中宴后暂得闲暇，众人围坐交谈。"
+  },
+  {
+    "id": "dense-072-2",
+    "chapter": 72,
+    "before": 2,
+    "title": "闲问佛手",
+    "alt": "凤姐院内偏房，贾琏坐椅询问鸳鸯一件旧日赏赐的佛手摆件去向，平儿手持衣袍出来答话，鸳鸯端坐炕边；只表现家常问答，勿将未在场的佛手实物摆出。",
+    "scene": "闲问佛手",
+    "source_excerpt": "腊油冻的佛手",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 72. Scene: 凤姐院内偏房，贾琏坐椅询问鸳鸯一件旧日赏赐的佛手摆件去向，平儿手持衣袍出来答话，鸳鸯端坐炕边；只表现家常问答，勿将未在场的佛手实物摆出。"
+  },
+  {
+    "id": "dense-072-3",
+    "chapter": 72,
+    "before": 5,
+    "title": "书房议事",
+    "alt": "荣府外书房，贾琏与管家林之孝分坐上下椅，商议家中人口与开支，书案账簿、窗外院落，气氛认真平和，纸面无可读文字。",
+    "scene": "书房议事",
+    "source_excerpt": "刚至外书房，忽见林之孝",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 72. Scene: 荣府外书房，贾琏与管家林之孝分坐上下椅，商议家中人口与开支，书案账簿、窗外院落，气氛认真平和，纸面无可读文字。"
+  },
+  {
+    "id": "dense-073-2",
+    "chapter": 73,
+    "before": 2,
+    "title": "夜灯温书",
+    "alt": "深夜怡红院，宝玉披好外衣在书案前紧张温习，袭人、麝月、晴雯在旁剪烛斟茶，小丫鬟们困倦坐候；书册散开，烛灯明亮，人物全着整齐衣裳。",
+    "scene": "夜灯温书",
+    "source_excerpt": "且理熟了书预备明儿盘考",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 73. Scene: 深夜怡红院，宝玉披好外衣在书案前紧张温习，袭人、麝月、晴雯在旁剪烛斟茶，小丫鬟们困倦坐候；书册散开，烛灯明亮，人物全着整齐衣裳。"
+  },
+  {
+    "id": "dense-073-3",
+    "chapter": 73,
+    "before": 7,
+    "title": "姊妹相慰",
+    "alt": "迎春房中，迎春放下书起身，宝钗、黛玉、宝琴、探春联袂前来安慰，丫鬟打起帘子，姊妹在纱窗旁围坐，关切平静。",
+    "scene": "姊妹相慰",
+    "source_excerpt": "都约来安慰他",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 73. Scene: 迎春房中，迎春放下书起身，宝钗、黛玉、宝琴、探春联袂前来安慰，丫鬟打起帘子，姊妹在纱窗旁围坐，关切平静。"
+  },
+  {
+    "id": "dense-074-2",
+    "chapter": 74,
+    "before": 7,
+    "title": "竹馆夜访",
+    "alt": "潇湘馆夜里，凤姐走入内室轻声让黛玉安心休息，黛玉衣着完整靠坐薄被内，竹窗外灯影，旁边女仆手持旧荷包和扇套待查看，画面平静无冲突。",
+    "scene": "竹馆夜访",
+    "source_excerpt": "一头到了潇湘馆内",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 74. Scene: 潇湘馆夜里，凤姐走入内室轻声让黛玉安心休息，黛玉衣着完整靠坐薄被内，竹窗外灯影，旁边女仆手持旧荷包和扇套待查看，画面平静无冲突。"
+  },
+  {
+    "id": "dense-074-3",
+    "chapter": 74,
+    "before": 10,
+    "title": "惜春论事",
+    "alt": "惜春房内，尤氏与惜春谈论入画存放物品之事，案前小包袱待查，年长奶娘在旁劝说，入画衣着完整站在一侧；只表现严肃谈话。",
+    "scene": "惜春论事",
+    "source_excerpt": "尤氏遂到了他房中来",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 74. Scene: 惜春房内，尤氏与惜春谈论入画存放物品之事，案前小包袱待查，年长奶娘在旁劝说，入画衣着完整站在一侧；只表现严肃谈话。"
+  },
+  {
+    "id": "dense-075-2",
+    "chapter": 75,
+    "before": 1,
+    "title": "面茶话别",
+    "alt": "李纨房中，宝钗前来说明要回家陪伴母亲，李纨与尤氏同她围坐吃面茶，朴雅案几、小瓷碗，秋日庭院光线安静。",
+    "scene": "面茶话别",
+    "source_excerpt": "大家吃面茶",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 75. Scene: 李纨房中，宝钗前来说明要回家陪伴母亲，李纨与尤氏同她围坐吃面茶，朴雅案几、小瓷碗，秋日庭院光线安静。"
+  },
+  {
+    "id": "dense-075-3",
+    "chapter": 75,
+    "before": 5,
+    "title": "分派瓜饼",
+    "alt": "中秋前一日宁府，尤氏与佩凤将西瓜、月饼分派成份遣人赠送，厅中竹篮漆盒与圆形糕饼整齐陈列，女仆承盘候命，节前忙碌。",
+    "scene": "分派瓜饼",
+    "source_excerpt": "西瓜月饼都全了",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 75. Scene: 中秋前一日宁府，尤氏与佩凤将西瓜、月饼分派成份遣人赠送，厅中竹篮漆盒与圆形糕饼整齐陈列，女仆承盘候命，节前忙碌。"
+  },
+  {
+    "id": "dense-076-2",
+    "chapter": 76,
+    "before": 1,
+    "title": "桂下清笛",
+    "alt": "中秋月夜凸碧堂宴席，贾母和王夫人等肃然倾听，远处桂花树下乐人吹笛，明月清风与桂枝掩映；前景一盘月饼与热酒，曲调清幽。",
+    "scene": "桂下清笛",
+    "source_excerpt": "那壁厢桂花树下",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 76. Scene: 中秋月夜凸碧堂宴席，贾母和王夫人等肃然倾听，远处桂花树下乐人吹笛，明月清风与桂枝掩映；前景一盘月饼与热酒，曲调清幽。"
+  },
+  {
+    "id": "dense-076-3",
+    "chapter": 76,
+    "before": 53,
+    "title": "栊翠续诗",
+    "alt": "深夜栊翠庵，妙玉在灯下提笔续写联句，黛玉和湘云坐在案旁期待观看，茶烟与炉香，蒲团、素雅纸砚，诗稿无可读文字。",
+    "scene": "栊翠续诗",
+    "source_excerpt": "妙玉遂提笔一挥而就",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 76. Scene: 深夜栊翠庵，妙玉在灯下提笔续写联句，黛玉和湘云坐在案旁期待观看，茶烟与炉香，蒲团、素雅纸砚，诗稿无可读文字。"
+  },
+  {
+    "id": "dense-077-2",
+    "chapter": 77,
+    "before": 1,
+    "title": "议购新参",
+    "alt": "王夫人内室，周瑞家的呈上包好的人参，宝钗坐旁温言建议另购新参，案上几只纸包与参根，衣饰端整，家中议事的平和瞬间。",
+    "scene": "议购新参",
+    "source_excerpt": "这一包人参固然是上好的",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 77. Scene: 王夫人内室，周瑞家的呈上包好的人参，宝钗坐旁温言建议另购新参，案上几只纸包与参根，衣饰端整，家中议事的平和瞬间。"
+  },
+  {
+    "id": "dense-077-3",
+    "chapter": 77,
+    "before": 5,
+    "title": "粗碗递茶",
+    "alt": "简陋房内，宝玉用粗瓷碗斟半碗茶递给晴雯，晴雯穿整齐衣衫靠坐在铺着旧衾褥的土炕上，草帘和小炉台朴素；只画关切递茶，不出现伤害、裸露或病症特写。",
+    "scene": "粗碗递茶",
+    "source_excerpt": "方提起沙壶斟了半碗",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 77. Scene: 简陋房内，宝玉用粗瓷碗斟半碗茶递给晴雯，晴雯穿整齐衣衫靠坐在铺着旧衾褥的土炕上，草帘和小炉台朴素；只画关切递茶，不出现伤害、裸露或病症特写。"
+  },
+  {
+    "id": "dense-078-2",
+    "chapter": 78,
+    "before": 3,
+    "title": "携墨归园",
+    "alt": "宝玉辞过贾母，穿整齐松花色夹袄红裤石青靴步行入园，秋纹捧文房四宝，麝月捧冠袍，两个小丫鬟随行，秋园石径安静。",
+    "scene": "携墨归园",
+    "source_excerpt": "秋纹便将笔墨拿起来",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 78. Scene: 宝玉辞过贾母，穿整齐松花色夹袄红裤石青靴步行入园，秋纹捧文房四宝，麝月捧冠袍，两个小丫鬟随行，秋园石径安静。"
+  },
+  {
+    "id": "dense-078-3",
+    "chapter": 78,
+    "before": 9,
+    "title": "书斋命题",
+    "alt": "书房内，贾政与几位幕友观看贾兰、贾环所录诗稿，宝玉站在案旁沉思，三位少年在长辈前应题作诗，笔砚素纸摆在案上，无可读文字。",
+    "scene": "书斋命题",
+    "source_excerpt": "贾政又命他三人各吊一首",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 78. Scene: 书房内，贾政与几位幕友观看贾兰、贾环所录诗稿，宝玉站在案旁沉思，三位少年在长辈前应题作诗，笔砚素纸摆在案上，无可读文字。"
+  },
+  {
+    "id": "dense-079-2",
+    "chapter": 79,
+    "before": 1,
+    "title": "紫菱独步",
+    "alt": "迎春搬出后的紫菱洲，宝玉独自在寂静轩窗前的岸边徘徊，蓼花苇叶渐秋，池中翠荇与菱叶，亭榭空寂，以园景与独行身影传达思念。",
+    "scene": "紫菱独步",
+    "source_excerpt": "天天到紫菱洲一带地方徘徊",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 79. Scene: 迎春搬出后的紫菱洲，宝玉独自在寂静轩窗前的岸边徘徊，蓼花苇叶渐秋，池中翠荇与菱叶，亭榭空寂，以园景与独行身影传达思念。"
+  },
+  {
+    "id": "dense-079-3",
+    "chapter": 79,
+    "before": 3,
+    "title": "洲畔闲谈",
+    "alt": "紫菱洲秋日岸边，香菱途经遇见宝玉，二人礼貌站着谈薛家婚事与桂花夏家的来历，香菱衣裙朴雅、宝玉红衣，远处水亭与桂木，不画婚礼。",
+    "scene": "洲畔闲谈",
+    "source_excerpt": "原来是香菱。宝玉便转身",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 79. Scene: 紫菱洲秋日岸边，香菱途经遇见宝玉，二人礼貌站着谈薛家婚事与桂花夏家的来历，香菱衣裙朴雅、宝玉红衣，远处水亭与桂木，不画婚礼。"
+  },
+  {
+    "id": "dense-080-2",
+    "chapter": 80,
+    "before": 4,
+    "title": "宝钗留伴",
+    "alt": "薛家内室，宝钗温言向薛姨妈说明留下香菱陪伴自己，香菱感激地站在旁边，室中茶盏和绣架，安静庇护的瞬间，人物衣着完整，不出现争斗或伤痕。",
+    "scene": "宝钗留伴",
+    "source_excerpt": "自此以后，香菱果跟随宝钗去了",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 80. Scene: 薛家内室，宝钗温言向薛姨妈说明留下香菱陪伴自己，香菱感激地站在旁边，室中茶盏和绣架，安静庇护的瞬间，人物衣着完整，不出现争斗或伤痕。"
+  },
+  {
+    "id": "dense-080-3",
+    "chapter": 80,
+    "before": 6,
+    "title": "道院谈笑",
+    "alt": "天齐庙静室，宝玉坐在榻上整好衣襟，与老王道士闲谈，李贵和随行老嬷嬷在旁含笑，徒弟端来浓茶，古庙苍松入窗；只描绘说笑。",
+    "scene": "道院谈笑",
+    "source_excerpt": "便请当家的老王道士来陪他说话儿",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 80. Scene: 天齐庙静室，宝玉坐在榻上整好衣襟，与老王道士闲谈，李贵和随行老嬷嬷在旁含笑，徒弟端来浓茶，古庙苍松入窗；只描绘说笑。"
+  },
+  {
+    "id": "dense-081-2",
+    "chapter": 81,
+    "before": 4,
+    "title": "堂前问安",
+    "alt": "贾母房内，王夫人陪贾母摸骨牌，宝玉从园中回来立在旁边请安，长辈温言询问，果盘茶盏与传统骨牌摆在案上。",
+    "scene": "堂前问安",
+    "source_excerpt": "王夫人陪著贾母摸牌",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 81. Scene: 贾母房内，王夫人陪贾母摸骨牌，宝玉从园中回来立在旁边请安，长辈温言询问，果盘茶盏与传统骨牌摆在案上。"
+  },
+  {
+    "id": "dense-081-3",
+    "chapter": 81,
+    "before": 11,
+    "title": "窗下入塾",
+    "alt": "家塾内，宝玉在西南角窗下花梨小桌旁站起回答代儒，桌右堆两套旧书和薄文章册，焙茗收纸墨笔砚，远处几位学生安静读书。",
+    "scene": "窗下入塾",
+    "source_excerpt": "西南角靠窗户摆著一张花梨小桌",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 81. Scene: 家塾内，宝玉在西南角窗下花梨小桌旁站起回答代儒，桌右堆两套旧书和薄文章册，焙茗收纸墨笔砚，远处几位学生安静读书。"
+  },
+  {
+    "id": "dense-082-2",
+    "chapter": 82,
+    "before": 3,
+    "title": "清院针线",
+    "alt": "宝玉上学后的怡红院很清静，袭人独坐窗边拿针线绣一个槟榔小荷包，绣篮丝线和小剪整齐在案，庭院花影清幽，衣着完整。",
+    "scene": "清院针线",
+    "source_excerpt": "要绣个槟榔包儿",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 82. Scene: 宝玉上学后的怡红院很清静，袭人独坐窗边拿针线绣一个槟榔小荷包，绣篮丝线和小剪整齐在案，庭院花影清幽，衣着完整。"
+  },
+  {
+    "id": "dense-082-3",
+    "chapter": 82,
+    "before": 11,
+    "title": "共评园图",
+    "alt": "惜春房内，惜春、探春与湘云围看摊在长案上的大观园画卷，指点亭台花木疏密，旁置画笔颜料，窗外秋园相映，画中无文字。",
+    "scene": "共评园图",
+    "source_excerpt": "论评惜春所画大观园图",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 82. Scene: 惜春房内，惜春、探春与湘云围看摊在长案上的大观园画卷，指点亭台花木疏密，旁置画笔颜料，窗外秋园相映，画中无文字。"
+  },
+  {
+    "id": "dense-083-2",
+    "chapter": 83,
+    "before": 4,
+    "title": "竹窗轻问",
+    "alt": "潇湘馆院门与竹窗前，袭人受宝玉所托来问安，雪雁轻声迎她入内，紫鹃掀起帘子点头，三位姑娘低声交谈，只画安静探访。",
+    "scene": "竹窗轻问",
+    "source_excerpt": "姐姐屋里坐著",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 83. Scene: 潇湘馆院门与竹窗前，袭人受宝玉所托来问安，雪雁轻声迎她入内，紫鹃掀起帘子点头，三位姑娘低声交谈，只画安静探访。"
+  },
+  {
+    "id": "dense-083-3",
+    "chapter": 83,
+    "before": 15,
+    "title": "庭中传谢",
+    "alt": "薛家庭院，贾母身边的小丫鬟同香菱迎上薛姨妈与宝钗，转达对前日赠荔枝的谢意，四人礼貌问候，庭院石径与花盆，无戏剧冲突。",
+    "scene": "庭中传谢",
+    "source_excerpt": "还谢谢前儿的荔枝",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 83. Scene: 薛家庭院，贾母身边的小丫鬟同香菱迎上薛姨妈与宝钗，转达对前日赠荔枝的谢意，四人礼貌问候，庭院石径与花盆，无戏剧冲突。"
+  },
+  {
+    "id": "dense-084-2",
+    "chapter": 84,
+    "before": 1,
+    "title": "宫赏入府",
+    "alt": "元妃康复后派内监来荣府送赏赐，贾赦、贾政在厅堂接待，托盘礼盒和银两逐一交清，贾母听禀，古典宫府礼仪，所有纸笺无可读文字。",
+    "scene": "宫赏入府",
+    "source_excerpt": "把物件银两一一交代清楚",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 84. Scene: 元妃康复后派内监来荣府送赏赐，贾赦、贾政在厅堂接待，托盘礼盒和银两逐一交清，贾母听禀，古典宫府礼仪，所有纸笺无可读文字。"
+  },
+  {
+    "id": "dense-084-3",
+    "chapter": 84,
+    "before": 6,
+    "title": "晚席奉觞",
+    "alt": "贾母与薛姨妈的家常晚宴，凤姐先持酒壶为长辈斟酒再入座，探春等陪席，宝玉在旁说明已吃过饭，古典厅堂暖灯与精细菜盘。",
+    "scene": "晚席奉觞",
+    "source_excerpt": "凤姐执壶斟了一巡",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 84. Scene: 贾母与薛姨妈的家常晚宴，凤姐先持酒壶为长辈斟酒再入座，探春等陪席，宝玉在旁说明已吃过饭，古典厅堂暖灯与精细菜盘。"
+  },
+  {
+    "id": "dense-085-2",
+    "chapter": 85,
+    "before": 2,
+    "title": "王府赠玉",
+    "alt": "北静王府精巧内厅，北静王向宝玉讲述仿照通灵宝玉另制一块玉的趣事，小太监承托盘取来玉佩，宝玉衣冠整齐恭敬受赏，陈设清雅。",
+    "scene": "王府赠玉",
+    "source_excerpt": "叫他们也作了一块来",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 85. Scene: 北静王府精巧内厅，北静王向宝玉讲述仿照通灵宝玉另制一块玉的趣事，小太监承托盘取来玉佩，宝玉衣冠整齐恭敬受赏，陈设清雅。"
+  },
+  {
+    "id": "dense-085-3",
+    "chapter": 85,
+    "before": 14,
+    "title": "升迁庆戏",
+    "alt": "为贾政升任庆贺的荣府正厅，庭前搭戏台，厅内琉璃戏屏分隔家宴，贾母、薛姨妈与姊妹们入座看吉庆戏，凤姐引黛玉来，园院灯彩典雅。",
+    "scene": "升迁庆戏",
+    "source_excerpt": "就在贾母正厅前搭起行台",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 85. Scene: 为贾政升任庆贺的荣府正厅，庭前搭戏台，厅内琉璃戏屏分隔家宴，贾母、薛姨妈与姊妹们入座看吉庆戏，凤姐引黛玉来，园院灯彩典雅。"
+  },
+  {
+    "id": "dense-086-2",
+    "chapter": 86,
+    "before": 9,
+    "title": "薛蝌归家",
+    "alt": "薛家厅内，风尘归来的薛蝌向薛姨妈和宝钗叙说在外办理的家事，行囊靠椅边，母女端坐倾听，茶盏在案，只画归家谈话。",
+    "scene": "薛蝌归家",
+    "source_excerpt": "一径回家，见了薛姨妈",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 86. Scene: 薛家厅内，风尘归来的薛蝌向薛姨妈和宝钗叙说在外办理的家事，行囊靠椅边，母女端坐倾听，茶盏在案，只画归家谈话。"
+  },
+  {
+    "id": "dense-086-3",
+    "chapter": 86,
+    "before": 11,
+    "title": "闲问红巾",
+    "alt": "怡红院内，宝玉换好整齐衣服后向袭人询问从前收起的红汗巾，袭人在衣柜旁停下手中活计答话，日常对谈，衣物叠放整齐，不画回忆中的其他场景。",
+    "scene": "闲问红巾",
+    "source_excerpt": "你那一年没有系的那条红汗巾子",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 86. Scene: 怡红院内，宝玉换好整齐衣服后向袭人询问从前收起的红汗巾，袭人在衣柜旁停下手中活计答话，日常对谈，衣物叠放整齐，不画回忆中的其他场景。"
+  },
+  {
+    "id": "dense-087-2",
+    "chapter": 87,
+    "before": 0,
+    "title": "秋窗读信",
+    "alt": "潇湘馆内，黛玉在竹窗前打开宝钗寄来的书信，送信的薛家女人由丫鬟请去喝茶，秋叶映窗、案上书卷香炉，纸面无可读文字。",
+    "scene": "秋窗读信",
+    "source_excerpt": "便将宝钗来书打开看时",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 87. Scene: 潇湘馆内，黛玉在竹窗前打开宝钗寄来的书信，送信的薛家女人由丫鬟请去喝茶，秋叶映窗、案上书卷香炉，纸面无可读文字。"
+  },
+  {
+    "id": "dense-087-3",
+    "chapter": 87,
+    "before": 9,
+    "title": "蓼轩观弈",
+    "alt": "蓼风轩内，妙玉与惜春相对凝神下围棋，宝玉掀帘进来后安静站在旁观看，棋枰黑白子与古琴书架，秋日安静室内。",
+    "scene": "蓼轩观弈",
+    "source_excerpt": "妙玉和惜春正在凝思之际",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 87. Scene: 蓼风轩内，妙玉与惜春相对凝神下围棋，宝玉掀帘进来后安静站在旁观看，棋枰黑白子与古琴书架，秋日安静室内。"
+  },
+  {
+    "id": "dense-088-2",
+    "chapter": 88,
+    "before": 1,
+    "title": "双陆承欢",
+    "alt": "贾母房中，贾母与李纨下传统双陆，鸳鸯在旁抿嘴笑，宝玉提着两个细竹小笼来孝敬祖母，笼内蝈蝈，棋盘呈双陆形制而非围棋。",
+    "scene": "双陆承欢",
+    "source_excerpt": "看见贾母与李纨打双陆",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 88. Scene: 贾母房中，贾母与李纨下传统双陆，鸳鸯在旁抿嘴笑，宝玉提着两个细竹小笼来孝敬祖母，笼内蝈蝈，棋盘呈双陆形制而非围棋。"
+  },
+  {
+    "id": "dense-088-3",
+    "chapter": 88,
+    "before": 9,
+    "title": "晚粥小菜",
+    "alt": "凤姐房内准备家常晚饭，丫鬟端来米粥和一两碟南方糟制小菜，平儿在旁向凤姐回话，桌上瓷碗与小菜碟，暖灯下平静家常。",
+    "scene": "晚粥小菜",
+    "source_excerpt": "你们把那南边来的糟东西弄一两碟来罢",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 88. Scene: 凤姐房内准备家常晚饭，丫鬟端来米粥和一两碟南方糟制小菜，平儿在旁向凤姐回话，桌上瓷碗与小菜碟，暖灯下平静家常。"
+  },
+  {
+    "id": "dense-089-2",
+    "chapter": 89,
+    "before": 9,
+    "title": "茶候写经",
+    "alt": "深秋潇湘馆，黛玉穿月白绣花小毛皮袄、银鼠坎肩与杨妃色棉裙在案前抄经，宝玉端坐等候，雪雁奉茶，纸笔与竹影，不出现可读字。",
+    "scene": "茶候写经",
+    "source_excerpt": "雪雁沏了茶来，宝玉吃著",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 89. Scene: 深秋潇湘馆，黛玉穿月白绣花小毛皮袄、银鼠坎肩与杨妃色棉裙在案前抄经，宝玉端坐等候，雪雁奉茶，纸笔与竹影，不出现可读字。"
+  },
+  {
+    "id": "dense-089-3",
+    "chapter": 89,
+    "before": 11,
+    "title": "壁琴问音",
+    "alt": "潇湘馆内，宝玉指着壁上较短的一张古琴询问，黛玉含笑解释这是自己小时学琴特制的，竹窗清寒，琴身纹理精致，二人礼貌隔案交谈。",
+    "scene": "壁琴问音",
+    "source_excerpt": "宝玉指著壁上道",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 89. Scene: 潇湘馆内，宝玉指着壁上较短的一张古琴询问，黛玉含笑解释这是自己小时学琴特制的，竹窗清寒，琴身纹理精致，二人礼貌隔案交谈。"
+  },
+  {
+    "id": "dense-090-2",
+    "chapter": 90,
+    "before": 7,
+    "title": "寒衣相赠",
+    "alt": "岫烟房中，平儿与丰儿送来凤姐赠的御寒衣裳，岫烟起身迎接，红着脸含笑致谢，椅上叠放干净棉袄，茶盏与冬日窗光，衣饰朴素清雅。",
+    "scene": "寒衣相赠",
+    "source_excerpt": "又见平儿同著丰儿过来",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 90. Scene: 岫烟房中，平儿与丰儿送来凤姐赠的御寒衣裳，岫烟起身迎接，红着脸含笑致谢，椅上叠放干净棉袄，茶盏与冬日窗光，衣饰朴素清雅。"
+  },
+  {
+    "id": "dense-090-3",
+    "chapter": 90,
+    "before": 10,
+    "title": "灯下寄思",
+    "alt": "薛蝌晚饭后独自在房中执笔写诗，想着寄居贾府的岫烟，青灯书案、墨砚与素笺，画面只画薛蝌沉思写作，不画未发生的相见。",
+    "scene": "灯下寄思",
+    "source_excerpt": "想到闷来也想吟诗一首",
+    "prompt": "Use case: historical-scene. Asset: one narrative illustration for Dream of the Red Chamber. Exquisite traditional Chinese gongbi fine contours with subtle ink wash, warm antique xuan paper, muted jade and smoky grey mineral pigments with restrained cinnabar accents. Wide landscape 3:2. Keep period Chinese clothing and architecture, fully clothed figures, graceful small figures within a spacious composition. Paint only the stated benign moment in this chapter, no events from other chapters. No modern objects, photography, readable text, calligraphy, seals, watermark, frame or border. Chapter 90. Scene: 薛蝌晚饭后独自在房中执笔写诗，想着寄居贾府的岫烟，青灯书案、墨砚与素笺，画面只画薛蝌沉思写作，不画未发生的相见。"
   }
 ]
