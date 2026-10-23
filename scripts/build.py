@@ -5,6 +5,7 @@ import base64
 import html
 import json
 import re
+from collections import Counter
 
 ROOT=Path(__file__).resolve().parents[1]
 E=html.escape
@@ -55,6 +56,8 @@ def main():
     illustrations=json.loads((ROOT/'data/illustrations.json').read_text())
     assert len(chapters)==CHAPTER_COUNT
     illustrated=len({ill['chapter'] for ill in illustrations})
+    image_counts=Counter(ill['chapter'] for ill in illustrations)
+    dense=sum(image_counts[ch['id']]>=3 for ch in chapters)
     plates=sum(sum(b['type']=='source-image' for b in ch['blocks']) for ch in chapters)
     soup=BeautifulSoup((ROOT/'src/shell.html').read_text(),'html.parser')
     soup.title.string='红楼梦 · 全一百二十回 | 一卷红楼'
@@ -68,7 +71,7 @@ def main():
     brand=soup.select_one('.brand');brand.name='button';del brand['href'];brand['data-action']='top'
     skip=soup.select_one('.skip');skip.name='button';del skip['href'];skip['data-action']='start'
     total=sum(ch['characters'] for ch in chapters)
-    soup.select_one('.chapter-band').replace_with(part(soup,f'<div class="chapter-band sans"><div><strong>全一百二十回 · 完整原文</strong><span class="book-total">{total:,} 字</span><span class="desktop-stat">已配图 {illustrated} 回 · {plates} 幅底本图式</span></div><button class="source-button" data-action="source">本回底本说明 ↗</button></div>'))
+    soup.select_one('.chapter-band').replace_with(part(soup,f'<div class="chapter-band sans"><div><strong>全一百二十回 · 完整原文</strong><span class="book-total">{total:,} 字</span><span class="desktop-stat">{len(illustrations)} 幅章节插画 · {dense}/120 回已达 3 幅</span></div><button class="source-button" data-action="source">本回底本说明 ↗</button></div>'))
     nav=navigation(chapters)
     soup.select_one('.rail').replace_with(part(soup,f'<aside class="rail"><p class="rail-title">全书目录</p><nav class="book-toc" aria-label="章节目录">{nav}</nav><div class="rail-bottom sans"><p><span class="current-chapter">第一回</span> · 位置 <strong class="progress">0</strong> %</p><button data-action="saved">我的书签与续读 ↗</button></div></aside>'))
     options=''.join(f'<option value="{ch["id"]}">{E(ch["title"])}</option>' for ch in chapters)

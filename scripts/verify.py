@@ -5,12 +5,14 @@ from import_sources import extract
 import hashlib
 import json
 import re
+from collections import Counter
 
 ROOT=Path(__file__).resolve().parents[1]
 
 def verify(html_path=None):
     html_path=Path(html_path or ROOT/'index.html')
     doc=BeautifulSoup(html_path.read_text(),'html.parser')
+    embedded=bool(doc.select_one('img[src^="data:"]'))
     metadata=json.loads((ROOT/'data/chapters.json').read_text())
     report=[]
     for ch in metadata:
@@ -32,12 +34,19 @@ def verify(html_path=None):
     for img in doc.select('img[src]'):
         src=img['src']
         if not src.startswith('data:'):assert (ROOT/src).is_file(), f'Missing asset: {src}'
-    for ill in json.loads((ROOT/'data/illustrations.json').read_text()):
+    images=json.loads((ROOT/'data/illustrations.json').read_text())
+    assert len({ill['src'] for ill in images})==len(images), 'Illustration asset reused'
+    for ill in images:
         expected=metadata[ill['chapter']-1]['blocks'][ill['before']]['text']
         assert ill['source_excerpt'] in expected
+        if ill.get('asset_sha256'):
+            assert hashlib.sha256((ROOT/ill['src']).read_bytes()).hexdigest()==ill['asset_sha256']
+        if not embedded:
+            assert len(doc.select(f'#chapter-{ill["chapter"]} .illustration img[src="{ill["src"]}"]'))==1
     assert len(doc.select('.chapter-page'))==len(metadata)==120
-    images=json.loads((ROOT/'data/illustrations.json').read_text())
-    return {'chapters':report,'total_paragraphs':sum(c['paragraphs'] for c in report),'total_characters':sum(c['characters'] for c in report),'all_exactly_equal':True,'source_original_images':sum(sum(b['type']=='source-image' for b in ch['blocks']) for ch in metadata),'generated_paintings':len(images)+1,'illustrated_chapters':len({i['chapter'] for i in images})}
+    counts=Counter(i['chapter'] for i in images)
+    for n in range(1,121): assert len(doc.select(f'#chapter-{n} .illustration'))==counts[n]
+    return {'chapters':report,'total_paragraphs':sum(c['paragraphs'] for c in report),'total_characters':sum(c['characters'] for c in report),'all_exactly_equal':True,'source_original_images':sum(sum(b['type']=='source-image' for b in ch['blocks']) for ch in metadata),'generated_paintings':len(images)+1,'illustrated_chapters':len(counts),'chapter_illustration_counts':{str(n):counts[n] for n in range(1,121)},'minimum_illustrations_per_chapter':min(counts[n] for n in range(1,121)),'chapters_with_at_least_three':sum(counts[n]>=3 for n in range(1,121))}
 
 if __name__=='__main__':
     report=verify()
